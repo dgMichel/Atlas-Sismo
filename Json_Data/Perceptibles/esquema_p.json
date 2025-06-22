@@ -1,5 +1,5 @@
 {
-    "perceptibles" : {
+    "perceptibles" : [
         {
             "localidad":"",
             "fecha":"",
@@ -11,5 +11,5 @@
             "region":"",
             "provincia":""
         }
-    }
+    ]
 }
