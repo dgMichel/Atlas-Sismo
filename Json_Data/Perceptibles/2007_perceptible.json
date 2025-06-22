@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "FECHA": "02-01-2007",
+            "TIEMPO (UT)": "04:59:30.0",
+            "LATN": 19.84,
+            "LONW": -75.58,
+            "H": 10.0,
+            "MD": 2.7,
+            "IMAX": "III",
+            "localidad": "W Baconao, Stgo. Cuba"
+        },
+        {
+            "FECHA": "04-02-2007",
+            "TIEMPO (UT)": "20:56:56.0",
+            "LATN": 19.54,
+            "LONW": -78.46,
+            "H": 25.0,
+            "MD": 6.1,
+            "IMAX": "V",
+            "localidad": "WSW Cabo-Cruz, Granma"
+        },
+        {
+            "FECHA": "09-04-2007",
+            "TIEMPO (UT)": "17:17:56.0",
+            "LATN": 19.86,
+            "LONW": -76.86,
+            "H": 10.0,
+            "MD": 2.4,
+            "IMAX": "III",
+            "localidad": "S Pico Turquino, Stgo. Cuba"
+        },
+        {
+            "FECHA": "22-04-2007",
+            "TIEMPO (UT)": "22:19:18.1",
+            "LATN": 19.75,
+            "LONW": -75.55,
+            "H": 21.3,
+            "MD": 2.8,
+            "IMAX": "III",
+            "localidad": "SSW Santiago de Cuba"
+        },
+        {
+            "FECHA": "01-05-2007",
+            "TIEMPO (UT)": "17:13:29.2",
+            "LATN": 19.91,
+            "LONW": -76.46,
+            "H": 8.3,
+            "MD": 2.6,
+            "IMAX": "III",
+            "localidad": "SE Chivirico, Stgo. Cuba"
+        },
+        {
+            "FECHA": "10-06-2007",
+            "TIEMPO (UT)": "14:40:15.3",
+            "LATN": 21.39,
+            "LONW": -76.12,
+            "H": 2.3,
+            "MD": 3.6,
+            "IMAX": "III",
+            "localidad": "N Gibara, Holguin"
+        },
+        {
+            "FECHA": "11-08-2007",
+            "TIEMPO (UT)": "15:35:12.6",
+            "LATN": 22.54,
+            "LONW": -79.84,
+            "H": 5.0,
+            "MD": 3.3,
+            "IMAX": "IV",
+            "localidad": "S Encrucijada, V. Clara"
+        },
+        {
+            "FECHA": "16-08-2007",
+            "TIEMPO (UT)": "06:54:20.5",
+            "LATN": 19.83,
+            "LONW": -76.41,
+            "H": 2.6,
+            "MD": 3.0,
+            "IMAX": "III",
+            "localidad": "S Rio Carpintero, Stgo. Cuba"
+        },
+        {
+            "FECHA": "31-08-2007",
+            "TIEMPO (UT)": "22:05:18.6",
+            "LATN": 19.86,
+            "LONW": -76.08,
+            "H": 10.0,
+            "MD": 3.0,
+            "IMAX": "III",
+            "localidad": "SW El Cobre, Stgo. Cuba"
+        },
+        {
+            "FECHA": "04-10-2007",
+            "TIEMPO (UT)": "01:11:53.0",
+            "LATN": 19.91,
+            "LONW": -75.59,
+            "H": 22.8,
+            "MD": 3.0,
+            "IMAX": "III",
+            "localidad": "W Sigua, Stgo de Cuba"
+        },
+        {
+            "FECHA": "15-10-2007",
+            "TIEMPO (UT)": "18:45:22.0",
+            "LATN": 19.84,
+            "LONW": -75.72,
+            "H": 5.0,
+            "MD": 2.9,
+            "IMAX": "III",
+            "localidad": "S Rio Carpintero, Stgo. Cuba"
+        },
+        {
+            "FECHA": "31-10-2007",
+            "TIEMPO (UT)": "20:55:04.0",
+            "LATN": 19.86,
+            "LONW": -76.99,
+            "H": 5.0,
+            "MD": 3.0,
+            "IMAX": "III",
+            "localidad": "SSE Las Mercedes, Granma"
+        },
+        {
+            "FECHA": "05-11-2007",
+            "TIEMPO (UT)": "00:40:17.0",
+            "LATN": 20.25,
+            "LONW": -74.07,
+            "H": 10.0,
+            "MD": 3.1,
+            "IMAX": "IV",
+            "localidad": "E Maisi, Guantanamo"
+        },
+        {
+            "FECHA": "06-12-2007",
+            "TIEMPO (UT)": "20:22:29.0",
+            "LATN": 20.01,
+            "LONW": -75.87,
+            "H": 20.0,
+            "MD": 2.8,
+            "IMAX": "II",
+            "localidad": "W de Rio Carpintero"
+        }
+    ]
+}

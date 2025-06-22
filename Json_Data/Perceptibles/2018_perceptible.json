@@ -1,0 +1,154 @@
+{
+    "data":[
+        {
+            "no":1,
+            "dia":"02/01",
+            "hora local":"03:39 pm",
+            "latitud norte":19.79,
+            "longitud oeste":-76.26,
+            "profundidad":34,
+            "magnitud":3.0,
+            "referencia":"Suroeste de Santiago de Cuba "
+        },
+        {
+            "no":2,
+            "dia":"09/01",
+            "hora local":"09:51 pm",
+            "latitud norte":17.46,
+            "longitud oeste":-83.52,
+            "profundidad":10,
+            "magnitud":7.6,
+            "referencia":"Islas Swan"
+        },
+        {
+            "no":3,
+            "dia":"27/02",
+            "hora local":"06:07 pm",
+            "latitud norte":19.92,
+            "longitud oeste":-75.60,
+            "profundidad":33,
+            "magnitud":3.9,
+            "referencia":"Sureste de Santiago de Cuba "
+        },
+        {
+            "no":4,
+            "dia":"10/03",
+            "hora local":"03:07 pm",
+            "latitud norte":19.77,
+            "longitud oeste":-75.51,
+            "profundidad":30,
+            "magnitud":3.7,
+            "referencia":"Sureste de Santiago de Cuba "
+        },
+        {
+            "no":5,
+            "dia":"10/03",
+            "hora local":"03:14 pm",
+            "latitud norte":19.80,
+            "longitud oeste":-75.47,
+            "profundidad":31,
+            "magnitud":3.7,
+            "referencia":"Sureste de Santiago de Cuba "
+        },
+        {
+            "no":6,
+            "dia":"07/05",
+            "hora local":"02:14 pm",
+            "latitud norte":19.76,
+            "longitud oeste":-76.67,
+            "profundidad":12,
+            "magnitud":3.7,
+            "referencia":"Suroeste de Santiago de Cuba "
+        },
+        {
+            "no":7,
+            "dia":"19/05",
+            "hora local":"01:11 pm",
+            "latitud norte":19.78,
+            "longitud oeste":-75.19,
+            "profundidad":16,
+            "magnitud":3.4,
+            "referencia":"Sureste de Santiago de Cuba "
+        },
+        {
+            "no":8,
+            "dia":"26/05",
+            "hora local":"01:57 am",
+            "latitud norte":19.69,
+            "longitud oeste":-75.37,
+            "profundidad":8,
+            "magnitud":3.6,
+            "referencia":"Sureste de Santiago de Cuba "
+        },
+        {
+            "no":9,
+            "dia":"03/07",
+            "hora local":"00:03 am",
+            "latitud norte":19.74,
+            "longitud oeste":-76.79,
+            "profundidad":7,
+            "magnitud":3.6,
+            "referencia":"Suroeste de Santiago de Cuba "
+        },
+        {
+            "no":10,
+            "dia":"01/09",
+            "hora local":"07:55 am",
+            "latitud norte":19.69,
+            "longitud oeste":-75.36,
+            "profundidad":12.7,
+            "magnitud":3.0,
+            "referencia":"Sureste de Santiago de Cuba "
+        },
+        {
+            "no":11,
+            "dia":"17/09",
+            "hora local":"08:57 am",
+            "latitud norte":19.80,
+            "longitud oeste":-74.59,
+            "profundidad":10,
+            "magnitud":3.8,
+            "referencia":"Sur de Imias"
+        },
+        {
+            "no":12,
+            "dia":"06/10",
+            "hora local":"08:11 pm",
+            "latitud norte":20.13,
+            "longitud oeste":-73.05,
+            "profundidad":10,
+            "magnitud":5.9,
+            "referencia":"Norte de Haiti"
+        },
+        {
+            "no":13,
+            "dia":"07/10",
+            "hora local":"04:00 pm",
+            "latitud norte":20.11,
+            "longitud oeste":-73.02,
+            "profundidad":8,
+            "magnitud":5.2,
+            "referencia":"Norte de Haiti"
+        },
+        {
+            "no":14,
+            "dia":"28/10",
+            "hora local":"03:52 pm",
+            "latitud norte":19.84,
+            "longitud oeste":-76.24,
+            "profundidad":18,
+            "magnitud":3.2,
+            "referencia":"Suroeste de Santiago de Cuba "
+        },
+        {
+            "no":15,
+            "dia":"10/11",
+            "hora local":"06:53 am",
+            "latitud norte":19.53,
+            "longitud oeste":-76.96,
+            "profundidad":14,
+            "magnitud":2.9,
+            "referencia":"Sur de Pilon"
+        }
+    ]
+}

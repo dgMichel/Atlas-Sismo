@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "No": 1,
+            "Fecha": "4/01",
+            "Hora": "11:34 am",
+            "Latitud": 19.826,
+            "Longitud": -75.516,
+            "Profundidad": 31,
+            "Magnitud": 3.0,
+            "Referencia": "Este de Santiago de Cuba"
+        },
+        {
+            "No": 2,
+            "Fecha": "17/01",
+            "Hora": "04:08 am",
+            "Latitud": 19.689,
+            "Longitud": -76.638,
+            "Profundidad": 10,
+            "Magnitud": 5.8,
+            "Referencia": "Sur de Uvero"
+        },
+        {
+            "No": 3,
+            "Fecha": "17/01",
+            "Hora": "04:28 am",
+            "Latitud": 19.726,
+            "Longitud": -76.687,
+            "Profundidad": 6.1,
+            "Magnitud": 3.5,
+            "Referencia": "Sur de Uvero"
+        },
+        {
+            "No": 4,
+            "Fecha": "17/01",
+            "Hora": "10:46 am",
+            "Latitud": 19.722,
+            "Longitud": -76.694,
+            "Profundidad": 10,
+            "Magnitud": 3.5,
+            "Referencia": "Sur de Uvero"
+        },
+        {
+            "No": 5,
+            "Fecha": "19/01",
+            "Hora": "08:48 am",
+            "Latitud": 19.82,
+            "Longitud": -75.65,
+            "Profundidad": 10,
+            "Magnitud": 3.5,
+            "Referencia": "Este de Santiago de Cuba"
+        },
+        {
+            "No": 6,
+            "Fecha": "02/02",
+            "Hora": "06:07 pm",
+            "Latitud": 19.78,
+            "Longitud": -75.43,
+            "Profundidad": 18,
+            "Magnitud": 3.2,
+            "Referencia": "Este de Santiago de Cuba"
+        },
+        {
+            "No": 7,
+            "Fecha": "11/04",
+            "Hora": "03:22 pm",
+            "Latitud": 19.4,
+            "Longitud": -75.42,
+            "Profundidad": 34.1,
+            "Magnitud": 3.9,
+            "Referencia": "Este de Santiago de Cuba"
+        },
+        {
+            "No": 8,
+            "Fecha": "25/04",
+            "Hora": "12:56 am",
+            "Latitud": 19.75,
+            "Longitud": -75.44,
+            "Profundidad": 35.2,
+            "Magnitud": 3.6,
+            "Referencia": "Este de Santiago de Cuba"
+        },
+        {
+            "No": 9,
+            "Fecha": "25/04",
+            "Hora": "10:42 am",
+            "Latitud": 19.65,
+            "Longitud": -75.47,
+            "Profundidad": 30.9,
+            "Magnitud": 4.5,
+            "Referencia": "Este de Santiago de Cuba"
+        },
+        {
+            "No": 10,
+            "Fecha": "25/04",
+            "Hora": "10:58 am",
+            "Latitud": 19.65,
+            "Longitud": -75.46,
+            "Profundidad": 27.9,
+            "Magnitud": 2.9,
+            "Referencia": "Este de Santiago de Cuba"
+        },
+        {
+            "No": 11,
+            "Fecha": "10/05",
+            "Hora": "11:36 am",
+            "Latitud": 19.83,
+            "Longitud": -75.21,
+            "Profundidad": 20.0,
+            "Magnitud": 3.4,
+            "Referencia": "Este de Santiago de Cuba"
+        },
+        {
+            "No": 12,
+            "Fecha": "29/07",
+            "Hora": "11:41 pm",
+            "Latitud": 23.23,
+            "Longitud": -81.19,
+            "Profundidad": 10.0,
+            "Magnitud": 4.6,
+            "Referencia": "Santa Martha - Varadero"
+        },
+        {
+            "No": 13,
+            "Fecha": "03/08",
+            "Hora": "02:58 pm",
+            "Latitud": 19.81,
+            "Longitud": -75.45,
+            "Profundidad": 46.1,
+            "Magnitud": 4.0,
+            "Referencia": "Este de Santiago de Cuba"
+        },
+        {
+            "No": 14,
+            "Fecha": "13/10",
+            "Hora": "04:09 pm",
+            "Latitud": 19.78,
+            "Longitud": -75.59,
+            "Profundidad": 19.5,
+            "Magnitud": 3.4,
+            "Referencia": "Este de Santiago de Cuba"
+        }
+    ]
+}

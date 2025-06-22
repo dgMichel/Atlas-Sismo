@@ -1,0 +1,145 @@
+[
+    {
+        "Boletin": 1,
+        "localidad de referencia": "Buey Arriba (Granma)",
+        "dia/mes": "5/enero",
+        "Hora Local": "5:32 am",
+        "LN": 20.12,
+        "LW": -76.74,
+        "Prof. (km)": 5,
+        "Mag.": 3.2,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 2,
+        "localidad de referencia": "Pilon (Granma)",
+        "dia/mes": "26/enero",
+        "Hora Local": "11:51 pm",
+        "LN": 19.79,
+        "LW": -76.98,
+        "Prof. (km)": 15,
+        "Mag.": 4.0,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 3,
+        "localidad de referencia": "Haiti",
+        "dia/mes": "23/marzo",
+        "Hora Local": "3:40 pm",
+        "LN": 18.8,
+        "LW": -74.09,
+        "Prof. (km)": 11,
+        "Mag.": 5.2,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 4,
+        "localidad de referencia": "Caimanera (Guantanamo)",
+        "dia/mes": "28/junio",
+        "Hora Local": "11:10 am",
+        "LN": 19.83,
+        "LW": -75.43,
+        "Prof. (km)": 33.8,
+        "Mag.": 4.0,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 5,
+        "localidad de referencia": "Caimanera (Guantanamo)",
+        "dia/mes": "28/agosto",
+        "Hora Local": "1:46 am",
+        "LN": 19.71,
+        "LW": -75.41,
+        "Prof. (km)": 21,
+        "Mag.": 3.4,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 6,
+        "localidad de referencia": "Cabo-Cruz (Granma)",
+        "dia/mes": "24/septiembre",
+        "Hora Local": "4:01 pm",
+        "LN": 19.6,
+        "LW": -77.88,
+        "Prof. (km)": 35.4,
+        "Mag.": 4.3,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 7,
+        "localidad de referencia": "Las Tunas",
+        "dia/mes": "8/noviembre",
+        "Hora Local": "6:33 am",
+        "LN": 21.88,
+        "LW": -76.38,
+        "Prof. (km)": 1.0,
+        "Mag.": 5.0,
+        "Int.": "IV"
+    },
+    {
+        "Boletin": 8,
+        "localidad de referencia": "Santiago de Cuba",
+        "dia/mes": "19/noviembre",
+        "Hora Local": "11:43 pm",
+        "LN": 19.8,
+        "LW": -75.81,
+        "Prof. (km)": 10.4,
+        "Mag.": 2.9,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 9,
+        "localidad de referencia": "Santiago de Cuba",
+        "dia/mes": "5/diciembre",
+        "Hora Local": "9:43 pm",
+        "LN": 19.87,
+        "LW": -75.93,
+        "Prof. (km)": 5.0,
+        "Mag.": 3.0,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 10,
+        "localidad de referencia": "Santiago de Cuba",
+        "dia/mes": "7/diciembre",
+        "Hora Local": "4:51 am",
+        "LN": 19.77,
+        "LW": -75.75,
+        "Prof. (km)": 5.0,
+        "Mag.": 3.5,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 11,
+        "localidad de referencia": "Santiago de Cuba",
+        "dia/mes": "7/diciembre",
+        "Hora Local": "4:54 am",
+        "LN": 19.75,
+        "LW": -75.69,
+        "Prof. (km)": 5.7,
+        "Mag.": 3.4,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 12,
+        "localidad de referencia": "Santiago de Cuba",
+        "dia/mes": "7/diciembre",
+        "Hora Local": "5:51 am",
+        "LN": 19.75,
+        "LW": -75.71,
+        "Prof. (km)": 1.0,
+        "Mag.": 3.6,
+        "Int.": "III"
+    },
+    {
+        "Boletin": 13,
+        "localidad de referencia": "Santiago de Cuba",
+        "dia/mes": "7/diciembre",
+        "Hora Local": "10:51 am",
+        "LN": 19.75,
+        "LW": -75.71,
+        "Prof. (km)": 5.0,
+        "Mag.": 3.2,
+        "Int.": "III"
+    }
+]

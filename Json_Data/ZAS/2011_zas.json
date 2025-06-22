@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "ZAS": "Cabo-Cruz-Pilon",
+            "Cantidad": 256,
+            "Magnitudes": "0.1 – 5.1",
+            "MagEq": 5.1,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "ZAS": "Chivirico",
+            "Cantidad": 257,
+            "Magnitudes": "0.1 – 2.7",
+            "MagEq": 3.1,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "ZAS": "Santiago-Baconao",
+            "Cantidad": 1904,
+            "Magnitudes": "0.1 - 3.7",
+            "MagEq": 3.8,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "ZAS": "Guantanamo-Maisi",
+            "Cantidad": 286,
+            "Magnitudes": "0.1 – 3.1",
+            "MagEq": 3.3,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "ZAS": "Centro oriente",
+            "Cantidad": 55,
+            "Magnitudes": "0.4 - 2.4",
+            "MagEq": 2.6,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "ZAS": "Moa-Purial",
+            "Cantidad": 102,
+            "Magnitudes": "0.1 – 3.0",
+            "MagEq": 3.0,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "ZAS": "Camaguey-Cubitas",
+            "Cantidad": 55,
+            "Magnitudes": "0.0 – 3.5",
+            "MagEq": 3.5,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "ZAS": "Holguin-Gibara",
+            "Cantidad": 44,
+            "Magnitudes": "0.9 – 3.1",
+            "MagEq": 3.1,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "ZAS": "Resto Cuba",
+            "Cantidad": 67,
+            "Magnitudes": "0.1 - 3.0",
+            "MagEq": 3.1,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "ZAS": "Bartlett",
+            "Cantidad": 125,
+            "Magnitudes": "0.9 – 3.0",
+            "MagEq": 3.3,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "ZAS": "Caiman",
+            "Cantidad": 25,
+            "Magnitudes": "0.9 – 3.9",
+            "MagEq": 4.0,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "ZAS": "Paso de los Vientos",
+            "Cantidad": 308,
+            "Magnitudes": "0.4 – 3.3",
+            "MagEq": 3.5,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        }
+    ]
+}

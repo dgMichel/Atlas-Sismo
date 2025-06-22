@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "Fecha": "15-feb-11",
+            "Hora UTC": "03:43:00",
+            "Hora Local": "10:43 PM",
+            "Longitud": -75.73,
+            "Latitud": 19.77,
+            "Profundidad": 32.0,
+            "Magnitud": 4.1,
+            "Localizacion": "Siboney"
+        },
+        {
+            "Fecha": "9-mar-11",
+            "Hora UTC": "10:05:00",
+            "Hora Local": "06:05 AM",
+            "Longitud": -75.65,
+            "Latitud": 19.75,
+            "Profundidad": 33.8,
+            "Magnitud": 3.5,
+            "Localizacion": "18.6Km SSW Playa Berraco"
+        },
+        {
+            "Fecha": "30-abr-11",
+            "Hora UTC": "08:54:00",
+            "Hora Local": "04:54 AM",
+            "Longitud": -74.66,
+            "Latitud": 20.66,
+            "Profundidad": 10.0,
+            "Magnitud": 3.2,
+            "Localizacion": "17.8Km W Baracoa"
+        },
+        {
+            "Fecha": "16-may-11",
+            "Hora UTC": "15:07:00",
+            "Hora Local": "11:07 AM",
+            "Longitud": -77.84,
+            "Latitud": 18.11,
+            "Profundidad": 6.0,
+            "Magnitud": 4.6,
+            "Localizacion": "43.7 Km SSE Montego Bay"
+        },
+        {
+            "Fecha": "22-may-11",
+            "Hora UTC": "15:09:00",
+            "Hora Local": "11:09 AM",
+            "Longitud": -75.52,
+            "Latitud": 20.04,
+            "Profundidad": 25.0,
+            "Magnitud": 3.2,
+            "Localizacion": "11.9 Km ENE Gran Piedra"
+        },
+        {
+            "Fecha": "30-may-11",
+            "Hora UTC": "00:12:00",
+            "Hora Local": "08:12 PM",
+            "Longitud": -75.37,
+            "Latitud": 19.74,
+            "Profundidad": 19.3,
+            "Magnitud": 4.0,
+            "Localizacion": "20.0 Km SSE Playa Baconao"
+        },
+        {
+            "Fecha": "25-jul-11",
+            "Hora UTC": "13:11:49",
+            "Hora Local": "09:11 AM",
+            "Longitud": -75.97,
+            "Latitud": 19.93,
+            "Profundidad": 10.0,
+            "Magnitud": 3.5,
+            "Localizacion": "5.1 Km al SW de Playa Mar Verde"
+        },
+        {
+            "Fecha": "15-sep-11",
+            "Hora UTC": "08:43:00",
+            "Hora Local": "04:43 AM",
+            "Longitud": -78.12,
+            "Latitud": 19.45,
+            "Profundidad": 15.0,
+            "Magnitud": 5.1,
+            "Localizacion": "59 Km SW de Cabo-Cruz"
+        },
+        {
+            "Fecha": "6-oct-11",
+            "Hora UTC": "11:04:00",
+            "Hora Local": "07:04 AM",
+            "Longitud": -75.45,
+            "Latitud": 19.92,
+            "Profundidad": 10.0,
+            "Magnitud": 3.0,
+            "Localizacion": "1.5 Km W Maria del Pilar"
+        },
+        {
+            "Fecha": "17-nov-11",
+            "Hora UTC": "01:18:00",
+            "Hora Local": "08:18 PM",
+            "Longitud": -75.49,
+            "Latitud": 19.68,
+            "Profundidad": 11.0,
+            "Magnitud": 2.8,
+            "Localizacion": "21 Km S Playa Cazonal"
+        },
+        {
+            "Fecha": "29-nov-11",
+            "Hora UTC": "19:42:00",
+            "Hora Local": "02:42 PM",
+            "Longitud": -76.21,
+            "Latitud": 19.84,
+            "Profundidad": 10.0,
+            "Magnitud": 2.5,
+            "Localizacion": "25 KM al ESW de Chivirico"
+        }
+    ]
+}

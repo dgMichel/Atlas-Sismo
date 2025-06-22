@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "Fecha": "18-ene-2013",
+            "Hora UTC": "22:13:00",
+            "Hora Local": "5:13 PM",
+            "Longitud": -75.62,
+            "Latitud": 19.83,
+            "Profundidad": 35.9,
+            "Magnitud": 3.1,
+            "Intensidad": "III",
+            "Localizacion": "SE Santiago de Cuba(Santiago de Cuba)"
+        },
+        {
+            "Fecha": "8-feb-2013",
+            "Hora UTC": "17:48:00",
+            "Hora Local": "12:48 PM",
+            "Longitud": -76.08,
+            "Latitud": 19.86,
+            "Profundidad": 23.0,
+            "Magnitud": 4.0,
+            "Intensidad": "III",
+            "Localizacion": "WSW Santiago de Cuba"
+        },
+        {
+            "Fecha": "12-feb-2013",
+            "Hora UTC": "12:21:00",
+            "Hora Local": "7:21 AM",
+            "Longitud": -77.04,
+            "Latitud": 19.83,
+            "Profundidad": 8.0,
+            "Magnitud": 3.2,
+            "Intensidad": "III",
+            "Localizacion": "SSE Pilon(Granma)"
+        },
+        {
+            "Fecha": "3-mar-2013",
+            "Hora UTC": "14:07:00",
+            "Hora Local": "9:07 AM",
+            "Longitud": -75.69,
+            "Latitud": 19.94,
+            "Profundidad": 29.0,
+            "Magnitud": 3.5,
+            "Intensidad": "III",
+            "Localizacion": "SE Santiago de Cuba"
+        },
+        {
+            "Fecha": "8-abr-2013",
+            "Hora UTC": "09:41:00",
+            "Hora Local": "5:41 AM",
+            "Longitud": -75.71,
+            "Latitud": 19.82,
+            "Profundidad": 10.0,
+            "Magnitud": 2.9,
+            "Intensidad": "II",
+            "Localizacion": "SEE Santiago de Cuba"
+        },
+        {
+            "Fecha": "9-may-2013",
+            "Hora UTC": "10:16:00",
+            "Hora Local": "6:16 AM",
+            "Longitud": -75.21,
+            "Latitud": 20.71,
+            "Profundidad": 10.0,
+            "Magnitud": 2.8,
+            "Intensidad": "II",
+            "Localizacion": "NE Sagua de Tanamo (Holguin)"
+        },
+        {
+            "Fecha": "9-may-2013",
+            "Hora UTC": "10:20:00",
+            "Hora Local": "6:20 AM",
+            "Longitud": -75.15,
+            "Latitud": 20.81,
+            "Profundidad": 10.0,
+            "Magnitud": 2.8,
+            "Intensidad": "II",
+            "Localizacion": "NNE Sagua de Tanamo (Holguin)"
+        },
+        {
+            "Fecha": "9-may-2013",
+            "Hora UTC": "10:21:00",
+            "Hora Local": "6:21 AM",
+            "Longitud": -75.18,
+            "Latitud": 20.67,
+            "Profundidad": 10.0,
+            "Magnitud": 3.0,
+            "Intensidad": "III",
+            "Localizacion": "NE Sagua de Tanamo (Holguin)"
+        },
+        {
+            "Fecha": "9-may-2013",
+            "Hora UTC": "16:18:00",
+            "Hora Local": "12:18 AM",
+            "Longitud": -75.18,
+            "Latitud": 20.68,
+            "Profundidad": 10.0,
+            "Magnitud": 2.9,
+            "Intensidad": "II",
+            "Localizacion": "NE Sagua de Tanamo (Holguin)"
+        },
+        {
+            "Fecha": "16-Junio-2013",
+            "Hora UTC": "22:05:00",
+            "Hora Local": "5:05 PM",
+            "Longitud": -76.24,
+            "Latitud": 20.11,
+            "Profundidad": 3.6,
+            "Magnitud": 3.2,
+            "Intensidad": "III",
+            "Localizacion": "SO de II Frente (Santiago de Cuba)"
+        },
+        {
+            "Fecha": "21-dic-2013",
+            "Hora UTC": "10:53:00",
+            "Hora Local": "05:53 AM",
+            "Longitud": -77.19,
+            "Latitud": 19.79,
+            "Profundidad": 10.0,
+            "Magnitud": 4.3,
+            "Intensidad": "IV",
+            "Localizacion": "SE de Pilon (Granma)"
+        },
+        {
+            "Fecha": "22-dic-2013",
+            "Hora UTC": "09:49:00",
+            "Hora Local": "4:49 AM",
+            "Longitud": -75.84,
+            "Latitud": 19.98,
+            "Profundidad": 15.0,
+            "Magnitud": 4.1,
+            "Intensidad": "IV",
+            "Localizacion": "SO de la Ciudad de Santiago"
+        }
+    ]
+}

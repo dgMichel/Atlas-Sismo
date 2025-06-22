@@ -1,0 +1,434 @@
+{
+"data": [
+{
+"dia": 12,
+"MES": 1,
+"HORA": "4:56 PM",
+"LON": -72.54,
+"LAT": 18.58,
+"PROF": 10,
+"MAG": 7.3,
+"REFERENCIA": "15 km Puerto Principe"
+},
+{
+"dia": 19,
+"MES": 1,
+"HORA": "9:23 AM",
+"LON": -80.53,
+"LAT": 18.41,
+"PROF": 50,
+"MAG": 5.8,
+"REFERENCIA": "S Cayman Grande"
+},
+{
+"dia": 5,
+"MES": 2,
+"HORA": "2:33 PM",
+"LON": -75.46,
+"LAT": 19.47,
+"PROF": 15,
+"MAG": 3.1,
+"REFERENCIA": "S Playa Cazonal - SC"
+},
+{
+"dia": 12,
+"MES": 2,
+"HORA": "7:09 AM",
+"LON": -74.36,
+"LAT": 19.72,
+"PROF": 10,
+"MAG": 4.4,
+"REFERENCIA": "SE Imias - GT"
+},
+{
+"dia": 23,
+"MES": 2,
+"HORA": "5:59 AM",
+"LON": -75.88,
+"LAT": 19.95,
+"PROF": 10,
+"MAG": 2.6,
+"REFERENCIA": "SW bahia - SC"
+},
+{
+"dia": 23,
+"MES": 2,
+"HORA": "5:59 AM",
+"LON": -75.96,
+"LAT": 19.88,
+"PROF": 10,
+"MAG": 3.3,
+"REFERENCIA": "S Playa Mar Verde - SC"
+},
+{
+"dia": 24,
+"MES": 2,
+"HORA": "1:38 AM",
+"LON": -75.94,
+"LAT": 19.88,
+"PROF": 6,
+"MAG": 3,
+"REFERENCIA": "S Playa Mar Verde - SC"
+},
+{
+"dia": 24,
+"MES": 2,
+"HORA": "5:34 AM",
+"LON": -75.99,
+"LAT": 19.96,
+"PROF": 41.6,
+"MAG": 3,
+"REFERENCIA": "W Playa Mar Verde - SC"
+},
+{
+"dia": 26,
+"MES": 2,
+"HORA": "4:21 PM",
+"LON": -75.87,
+"LAT": 19.97,
+"PROF": 7.1,
+"MAG": 2.6,
+"REFERENCIA": "W Aeropuerto A. Maceo - SC"
+},
+{
+"dia": 27,
+"MES": 2,
+"HORA": "7:28 AM",
+"LON": -75.76,
+"LAT": 19.78,
+"PROF": 20.3,
+"MAG": 3.2,
+"REFERENCIA": "SW Playa Siboney - SC"
+},
+{
+"dia": 27,
+"MES": 2,
+"HORA": "12:01 AM",
+"LON": -75.89,
+"LAT": 19.97,
+"PROF": 7.1,
+"MAG": 3,
+"REFERENCIA": "E Playa Mar Verde - SC"
+},
+{
+"dia": 3,
+"MES": 3,
+"HORA": "10:35 PM",
+"LON": -75.45,
+"LAT": 19.82,
+"PROF": 26,
+"MAG": 3.6,
+"REFERENCIA": "SE Playa Cazonal - SC"
+},
+{
+"dia": 5,
+"MES": 3,
+"HORA": "6:14 AM",
+"LON": -76.38,
+"LAT": 21.15,
+"PROF": 7,
+"MAG": 2.5,
+"REFERENCIA": "E Puerto Padre - LT"
+},
+{
+"dia": 5,
+"MES": 3,
+"HORA": "3:29 PM",
+"LON": -75.9,
+"LAT": 19.99,
+"PROF": 10,
+"MAG": 2.8,
+"REFERENCIA": "E-NW Playa Mar verde"
+},
+{
+"dia": 16,
+"MES": 3,
+"HORA": "8:08 PM",
+"LON": -75.94,
+"LAT": 19.92,
+"PROF": 20,
+"MAG": 4.2,
+"REFERENCIA": "S Playa Mar Verde - SC"
+},
+{
+"dia": 20,
+"MES": 3,
+"HORA": "2:08 PM",
+"LON": -75.32,
+"LAT": 19.77,
+"PROF": 7.6,
+"MAG": 5.6,
+"REFERENCIA": "60.1 Km SE Santiago de Cuba"
+},
+{
+"dia": 20,
+"MES": 3,
+"HORA": "2:38 PM",
+"LON": -75.43,
+"LAT": 19.84,
+"PROF": 7.6,
+"MAG": 3.6,
+"REFERENCIA": "60.1 Km SE Santiago de Cuba"
+},
+{
+"dia": 20,
+"MES": 3,
+"HORA": "3:31 PM",
+"LON": -75.39,
+"LAT": 19.83,
+"PROF": 10,
+"MAG": 4.8,
+"REFERENCIA": "52.5 Km SE Santiago de Cuba"
+},
+{
+"dia": 20,
+"MES": 3,
+"HORA": "4:25 PM",
+"LON": -75.36,
+"LAT": 19.87,
+"PROF": 10,
+"MAG": 3,
+"REFERENCIA": "53.6 Km SE Santiago de Cuba"
+},
+{
+"dia": 22,
+"MES": 3,
+"HORA": "9:15 AM",
+"LON": -75.5,
+"LAT": 19.69,
+"PROF": 30,
+"MAG": 2.8,
+"REFERENCIA": "20,0 Km S Playa Cazonal"
+},
+{
+"dia": 27,
+"MES": 3,
+"HORA": "2:26 PM",
+"LON": -75.37,
+"LAT": 19.72,
+"PROF": 8,
+"MAG": 3.5,
+"REFERENCIA": "29,0 Km S -SE Playa Baconao"
+},
+{
+"dia": 6,
+"MES": 4,
+"HORA": "5:28 AM",
+"LON": -75.38,
+"LAT": 19.67,
+"PROF": 7.1,
+"MAG": 3.1,
+"REFERENCIA": "26.2 Km SE Playa Cazonal"
+},
+{
+"dia": 12,
+"MES": 4,
+"HORA": "10:37 PM",
+"LON": -76.65,
+"LAT": 19.63,
+"PROF": 10,
+"MAG": 4.4,
+"REFERENCIA": "35.5 km SE de La Plata, Guama"
+},
+{
+"dia": 25,
+"MES": 4,
+"HORA": "4:31 AM",
+"LON": -75.9,
+"LAT": 19.97,
+"PROF": 5,
+"MAG": 2.9,
+"REFERENCIA": "10 km SW de Santiago de Cuba"
+},
+{
+"dia": 25,
+"MES": 4,
+"HORA": "4:35 AM",
+"LON": -75.89,
+"LAT": 19.97,
+"PROF": 5,
+"MAG": 3,
+"REFERENCIA": "9 km SW de Santiago de Cuba"
+},
+{
+"dia": 6,
+"MES": 5,
+"HORA": "5:15 PM",
+"LON": -75.36,
+"LAT": 19.71,
+"PROF": 14.1,
+"MAG": 3.2,
+"REFERENCIA": "23 km SSE de Playa Baconao"
+},
+{
+"dia": 14,
+"MES": 5,
+"HORA": "1:30 PM",
+"LON": -82.91,
+"LAT": 22.61,
+"PROF": 5,
+"MAG": 4.1,
+"REFERENCIA": "20 km SW de Artemisa, La Habana"
+},
+{
+"dia": 24,
+"MES": 5,
+"HORA": "10:09 PM",
+"LON": -77.05,
+"LAT": 19.78,
+"PROF": 22,
+"MAG": 3,
+"REFERENCIA": "22 km SW de La Plata, Guama."
+},
+{
+"dia": 9,
+"MES": 6,
+"HORA": "3:06 PM",
+"LON": -76.68,
+"LAT": 19.73,
+"PROF": 7,
+"MAG": 3.2,
+"REFERENCIA": "26.2 Km SSO de El Uvero"
+},
+{
+"dia": 9,
+"MES": 6,
+"HORA": "6:31 PM",
+"LON": -76.61,
+"LAT": 19.86,
+"PROF": 10,
+"MAG": 3.7,
+"REFERENCIA": "10 km SSE de El Uvero"
+},
+{
+"dia":10,
+"MES":6,
+"HORA":"10:01 PM",
+"LON":-76.67,
+"LAT":19.9,
+"PROF":5,
+"MAG":2.8,
+"REFERENCIA":"10 km  OSO de El Uvero" 
+},
+{
+"dia":10,
+"MES":6,
+"HORA":"10:01 PM",
+"LON":-76.62,
+"LAT":19.78,
+"PROF":10,
+"MAG":3.5,
+"REFERENCIA": "19 km S de El Uvero"
+},
+{
+"dia":10,
+"MES":6,
+"HORA":"10:40 PM",
+"LON":-76.54,
+"LAT":19.79,
+"PROF":10,
+"MAG":4.8,
+"REFERENCIA": "18 km SSE de El Uvero"
+},
+{
+"dia":10,
+"MES":6,
+"HORA":"10:54 PM",
+"LON":-76.69,
+"LAT":19.82,
+"PROF":5,
+"MAG":2.8,
+"REFERENCIA": "18 km SO de El Uvero"
+},
+{
+"dia":10,
+"MES":6,
+"HORA":"10:40 AM",
+"LON":-76.61,
+"LAT":19.75,
+"PROF":7.1,
+"MAG":2.9,
+"REFERENCIA": "22.4 km SSW de El Uvero" 
+},
+{
+"dia":10,
+"MES":6,
+"HORA":"7:23 PM",
+"LON":-76.6,
+"LAT":19.73,
+"PROF":7,
+"MAG":3.4,
+"REFERENCIA": "24.8 km S de El Uvero" 
+},
+{
+"dia":5,
+"MES":6,
+"HORA":"3:06 AM",
+"LON":-75.38,
+"LAT":19.93,
+"PROF":10,
+"MAG":4.7,
+"REFERENCIA": "SE de Baconao" 
+},
+{
+"dia":19,
+"MES":7,
+"HORA":"9:52 PM",
+"LON":-77.02,
+"LAT":19.77,
+"PROF":7.2,
+"MAG":3,
+"REFERENCIA": "20.1Km SW de La Plata"
+},
+{
+"dia":24,
+"MES":9,
+"HORA":"12:49 AM",
+"LON":-76.84,
+"LAT":19.95,
+"PROF":7.5,
+"MAG":3,
+"REFERENCIA": "2.3 Km SE de Pico Turguino" 
+},
+{
+"dia":4,
+"MES":10,
+"HORA":"7:48 AM",
+"LON":-75.52,
+"LAT":19.86,
+"PROF":25,
+"MAG":5.1,
+"REFERENCIA": "1.0 Km SEE de Playa Cazonal"
+},
+{
+"dia":12,
+"MES":11,
+"HORA":"5:07 PM",
+"LON":-77.32,
+"LAT":19.79,
+"PROF":10,
+"MAG":3.1,
+"REFERENCIA": "12 km SSE de Pilon"
+},
+{
+"dia":1,
+"MES":12,
+"HORA":"2:24 PM",
+"LON":-75.5,
+"LAT":19.78,
+"PROF":15,
+"MAG":2.9,
+"REFERENCIA": "8.4 km S de Baconao" 
+},
+{
+"dia":10,
+"MES":12,
+"HORA":"9:03 PM",
+"LON":-76.22,
+"LAT":21.15,
+"PROF":7,
+"MAG":2.9,
+"REFERENCIA": "WNW Gibara" 
+}
+]
+}

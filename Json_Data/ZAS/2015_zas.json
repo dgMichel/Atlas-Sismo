@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "zonas de actividad sismica": "Cabo-Cruz-Pilon",
+            "No. de sismos 2014": 249,
+            "Rangos de magnitudes 2014": "0.9-3.6",
+            "Magnitud equivalente 2014": 3.8,
+            "No. de sismos 2015": 209,
+            "Rangos de magnitudes 2015": "0.8-4.0",
+            "Magnitud equivalente 2015": 4.1,
+            "Nivel de actividad 2015": "alta"
+        },
+        {
+            "zonas de actividad sismica": "Chivirico",
+            "No. de sismos 2014": 342,
+            "Rangos de magnitudes 2014": "0.9-4.2",
+            "Magnitud equivalente 2014": 4.2,
+            "No. de sismos 2015": 283,
+            "Rangos de magnitudes 2015": "0.5-3.3",
+            "Magnitud equivalente 2015": 3.5,
+            "Nivel de actividad 2015": "alta"
+        },
+        {
+            "zonas de actividad sismica": "Santiago-Baconao",
+            "No. de sismos 2014": 2477,
+            "Rangos de magnitudes 2014": "0.9-3.4",
+            "Magnitud equivalente 2014": 3.7,
+            "No. de sismos 2015": 2587,
+            "Rangos de magnitudes 2015": "0.8-4.1",
+            "Magnitud equivalente 2015": 4.2,
+            "Nivel de actividad 2015": "alta"
+        },
+        {
+            "zonas de actividad sismica": "Guantanamo-Maisi",
+            "No. de sismos 2014": 1451,
+            "Rangos de magnitudes 2014": "0.9-4.0",
+            "Magnitud equivalente 2014": 4.2,
+            "No. de sismos 2015": 487,
+            "Rangos de magnitudes 2015": "0.4-3.3",
+            "Magnitud equivalente 2015": 3.5,
+            "Nivel de actividad 2015": "alta"
+        },
+        {
+            "zonas de actividad sismica": "Bartlett",
+            "No. de sismos 2014": 157,
+            "Rangos de magnitudes 2014": "0.9-3.2",
+            "Magnitud equivalente 2014": 3.5,
+            "No. de sismos 2015": 178,
+            "Rangos de magnitudes 2015": "0.4-4.4",
+            "Magnitud equivalente 2015": 4.4,
+            "Nivel de actividad 2015": "alta"
+        },
+        {
+            "zonas de actividad sismica": "Paso de los Vientos",
+            "No. de sismos 2014": 480,
+            "Rangos de magnitudes 2014": "0.2-3.5",
+            "Magnitud equivalente 2014": 3.8,
+            "No. de sismos 2015": 388,
+            "Rangos de magnitudes 2015": "1.2-4.2",
+            "Magnitud equivalente 2015": 4.3,
+            "Nivel de actividad 2015": "alta"
+        },
+        {
+            "zonas de actividad sismica": "Centro oriente",
+            "No. de sismos 2014": 61,
+            "Rangos de magnitudes 2014": "0.6-2.8",
+            "Magnitud equivalente 2014": 2.9,
+            "No. de sismos 2015": 31,
+            "Rangos de magnitudes 2015": "0.8-2.4",
+            "Magnitud equivalente 2015": 2.7,
+            "Nivel de actividad 2015": "normal"
+        },
+        {
+            "zonas de actividad sismica": "Moa-Purial",
+            "No. de sismos 2014": 102,
+            "Rangos de magnitudes 2014": "0.3-3.5",
+            "Magnitud equivalente 2014": 3.6,
+            "No. de sismos 2015": 70,
+            "Rangos de magnitudes 2015": "0.5-3.2",
+            "Magnitud equivalente 2015": 3.3,
+            "Nivel de actividad 2015": "alta"
+        },
+        {
+            "zonas de actividad sismica": "Camagüey -Cubitas",
+            "No. de sismos 2014": 71,
+            "Rangos de magnitudes 2014": "0.1-3.7",
+            "Magnitud equivalente 2014": 3.7,
+            "No. de sismos 2015": 592,
+            "Rangos de magnitudes 2015": "0.8-3.9",
+            "Magnitud equivalente 2015": 4.0,
+            "Nivel de actividad 2015": "alta"
+        },
+        {
+            "zonas de actividad sismica": "Holguin-Gibara",
+            "No. de sismos 2014": 50,
+            "Rangos de magnitudes 2014": "0.3-3.2",
+            "Magnitud equivalente 2014": 3.3,
+            "No. de sismos 2015": 78,
+            "Rangos de magnitudes 2015": "0.9-3.0",
+            "Magnitud equivalente 2015": 3.3,
+            "Nivel de actividad 2015": "normal"
+        },
+        {
+            "zonas de actividad sismica": "Resto de Cuba",
+            "No. de sismos 2014": 279,
+            "Rangos de magnitudes 2014": "0.3-4.9",
+            "Magnitud equivalente 2014": 4.9,
+            "No. de sismos 2015": 94,
+            "Rangos de magnitudes 2015": "0.5-4.4",
+            "Magnitud equivalente 2015": 4.5,
+            "Nivel de actividad 2015": "alta"
+        }
+    ]
+}

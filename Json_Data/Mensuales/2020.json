@@ -1,0 +1,902 @@
+{
+    "abril": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 26,
+                "rango": "1.9 - 3.3",
+                "magnitud_equivalente": 3.5,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 17,
+                "rango": "0.6 - 2.6",
+                "magnitud_equivalente": 2.8,
+                "valor_energetico": "Normal"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 127,
+                "rango": "0.9 - 3.7",
+                "magnitud_equivalente": 3.7,
+                "valor_energetico": "Alta"
+            },
+            "Imias": {
+                "cantidad": 59,
+                "rango": "0.5 - 4.8",
+                "magnitud_equivalente": 4.8,
+                "valor_energetico": "Alta"
+            },
+            "Moa-Purial": {
+                "cantidad": 22,
+                "rango": "0.7 - 2.6",
+                "magnitud_equivalente": 2.7,
+                "valor_energetico": "Normal"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 4,
+                "rango": "1.8 - 2.0",
+                "magnitud_equivalente": 2.2,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 12,
+                "rango": "1.5 - 2.9",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Alta"
+            },
+            "Centro": {
+                "cantidad": 7,
+                "rango": "0.8 - 2.0",
+                "magnitud_equivalente": 2.2,
+                "valor_energetico": "Normal"
+            },
+            "Pinar": {
+                "cantidad": 2,
+                "rango": "1.4 - 1.7",
+                "magnitud_equivalente": 1.7,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 52,
+                "rango": "1.8 - 3.5",
+                "magnitud_equivalente": 3.7,
+                "valor_energetico": "Alta"
+            },
+            "Bahamas": {
+                "cantidad": 2,
+                "rango": "2.1 - 3.0",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 34,
+                "rango": "1.8 - 3.9",
+                "magnitud_equivalente": 4.1,
+                "valor_energetico": "Alta"
+            }
+        }
+    },
+    "agosto": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 18,
+                "rango": "2.1 - 3.3",
+                "magnitud_equivalente": 3.4,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 198,
+                "rango": "0.4 - 3.1",
+                "magnitud_equivalente": 3.2,
+                "valor_energetico": "Alta"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 93,
+                "rango": "0.5 - 3.0",
+                "magnitud_equivalente": 3.2,
+                "valor_energetico": "Alta"
+            },
+            "Imias": {
+                "cantidad": 32,
+                "rango": "0.5 - 3.2",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Alta"
+            },
+            "Moa-Purial": {
+                "cantidad": 16,
+                "rango": "0.7 - 2.2",
+                "magnitud_equivalente": 2.3,
+                "valor_energetico": "Normal"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 5,
+                "rango": "0.5 - 2.1",
+                "magnitud_equivalente": 2.1,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 1,
+                "rango": "2.3",
+                "magnitud_equivalente": 2.3,
+                "valor_energetico": "Normal"
+            },
+            "Centro": {
+                "cantidad": 14,
+                "rango": "2.2 - 3.5",
+                "magnitud_equivalente": 3.5,
+                "valor_energetico": "Alta"
+            },
+            "Pinar": {
+                "cantidad": 1,
+                "rango": "1.7",
+                "magnitud_equivalente": 1.7,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 38,
+                "rango": "1.7 - 3.4",
+                "magnitud_equivalente": 3.6,
+                "valor_energetico": "Alta"
+            },
+            "Bahamas Norte": {
+                "cantidad": 1,
+                "rango": "3.2",
+                "magnitud_equivalente": 3.2,
+                "valor_energetico": "Normal"
+            },
+            "Bahamas Sur": {
+                "cantidad": 1,
+                "rango": "2.9",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 12,
+                "rango": "3.6 - 3.6",
+                "magnitud_equivalente": 3.7,
+                "valor_energetico": "Normal"
+            }
+        }
+    },
+    "diciembre": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 39,
+                "rango": "0.5 - 4.0",
+                "magnitud_equivalente": 4.0,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 43,
+                "rango": "0.4 - 3.6",
+                "magnitud_equivalente": 3.6,
+                "valor_energetico": "Alta"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 167,
+                "rango": "0.5 - 2.8",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Normal"
+            },
+            "Imias": {
+                "cantidad": 44,
+                "rango": "0.2 - 3.2",
+                "magnitud_equivalente": 3.2,
+                "valor_energetico": "Alta"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 6,
+                "rango": "1.7 - 2.2",
+                "magnitud_equivalente": 2.3,
+                "valor_energetico": "Normal"
+            },
+            "Moa-Purial": {
+                "cantidad": 9,
+                "rango": "0.4 - 2.3",
+                "magnitud_equivalente": 2.5,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 3,
+                "rango": "1.9 - 3.4",
+                "magnitud_equivalente": 3.4,
+                "valor_energetico": "Alta"
+            },
+            "Pinar": {
+                "cantidad": 3,
+                "rango": "1.8 - 2.1",
+                "magnitud_equivalente": 2.2,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 18,
+                "rango": "2.0 - 3.2",
+                "magnitud_equivalente": 3.4,
+                "valor_energetico": "Normal"
+            },
+            "Bahamas Sur": {
+                "cantidad": 1,
+                "rango": "2.9",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 9,
+                "rango": "2.4 - 4.0",
+                "magnitud_equivalente": 4.1,
+                "valor_energetico": "Alta"
+            }
+        }
+    },
+    "enero": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 32,
+                "rango": "0.7 - 4.2",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 31,
+                "rango": "0.7 - 2.6",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Normal"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 112,
+                "rango": "0.8 - 2.7",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Normal"
+            },
+            "Imias": {
+                "cantidad": 95,
+                "rango": "0.9 - 4.1",
+                "magnitud_equivalente": 4.2,
+                "valor_energetico": "Alta"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 5,
+                "rango": "1.8 - 2.3",
+                "magnitud_equivalente": 2.5,
+                "valor_energetico": "Alta"
+            },
+            "Moa-Purial": {
+                "cantidad": 15,
+                "rango": "0.9 - 2.5",
+                "magnitud_equivalente": 2.6,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 4,
+                "rango": "2.0 - 3.1",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Alta"
+            },
+            "Centro": {
+                "cantidad": 9,
+                "rango": "0.6 - 2.6",
+                "magnitud_equivalente": 2.6,
+                "valor_energetico": "Normal"
+            },
+            "Pinar": {
+                "cantidad": 1,
+                "rango": "0.5",
+                "magnitud_equivalente": 0.5,
+                "valor_energetico": "Baja"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 40,
+                "rango": "1.8 - 3.3",
+                "magnitud_equivalente": 3.5,
+                "valor_energetico": "Alta"
+            },
+            "Bahamas Norte": {
+                "cantidad": 1,
+                "rango": "3.3",
+                "magnitud_equivalente": 3.5,
+                "valor_energetico": "Alta"
+            },
+            "Caiman": {
+                "cantidad": 227,
+                "rango": "2.0 - 7.7",
+                "magnitud_equivalente": 7.7,
+                "valor_energetico": "Alta"
+            }
+        }
+    },
+    "febrero": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 37,
+                "rango": "0.8 - 3.4",
+                "magnitud_equivalente": 3.6,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 40,
+                "rango": "1.4 - 3.0",
+                "magnitud_equivalente": 3.2,
+                "valor_energetico": "Normal"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 113,
+                "rango": "0.3 - 3.0",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Normal"
+            },
+            "Imias": {
+                "cantidad": 35,
+                "rango": "1.2 - 3.0",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Alta"
+            },
+            "Moa-Purial": {
+                "cantidad": 30,
+                "rango": "0.2 - 2.8",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Alta"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 19,
+                "rango": "0.5 - 2.8",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Alta"
+            },
+            "Centro": {
+                "cantidad": 13,
+                "rango": "0.6 - 2.6",
+                "magnitud_equivalente": 2.7,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 36,
+                "rango": "1.9 - 3.2",
+                "magnitud_equivalente": 3.5,
+                "valor_energetico": "Alta"
+            },
+            "Bahamas Norte": {
+                "cantidad": 1,
+                "rango": "2.8",
+                "magnitud_equivalente": 2.8,
+                "valor_energetico": "Normal"
+            },
+            "Bahamas Sur": {
+                "cantidad": 1,
+                "rango": "2.9",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 149,
+                "rango": "2.0 - 4.3",
+                "magnitud_equivalente": 4.4,
+                "valor_energetico": "Alta"
+            }
+        }
+    },
+    "julio": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 30,
+                "rango": "1.6 - 4.8",
+                "magnitud_equivalente": 4.8,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 37,
+                "rango": "0.5 - 3.0",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Normal"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 168,
+                "rango": "0.9 - 3.7",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Normal"
+            },
+            "Imias": {
+                "cantidad": 36,
+                "rango": "1.0 - 2.8",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Alta"
+            },
+            "Moa-Purial": {
+                "cantidad": 14,
+                "rango": "1.3 - 2.8",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Alta"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 4,
+                "rango": "1.5 - 2.2",
+                "magnitud_equivalente": 2.3,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 8,
+                "rango": "2.0 - 2.8",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Normal"
+            },
+            "Centro": {
+                "cantidad": 16,
+                "rango": "0.4 - 3.1",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Alta"
+            },
+            "Pinar": {
+                "cantidad": 1,
+                "rango": "2.0",
+                "magnitud_equivalente": 2.0,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 25,
+                "rango": "0.9 - 3.3",
+                "magnitud_equivalente": 3.4,
+                "valor_energetico": "Normal"
+            },
+            "Bahamas Norte": {
+                "cantidad": 1,
+                "rango": "3.4",
+                "magnitud_equivalente": 3.4,
+                "valor_energetico": "Alta"
+            },
+            "Caiman": {
+                "cantidad": 16,
+                "rango": "2.1 - 3.4",
+                "magnitud_equivalente": 3.7,
+                "valor_energetico": "Normal"
+            }
+        }
+    },
+    "junio": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 26,
+                "rango": "1.0 - 3.2",
+                "magnitud_equivalente": 3.4,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 60,
+                "rango": "1.0 - 3.3",
+                "magnitud_equivalente": 3.4,
+                "valor_energetico": "Alta"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 201,
+                "rango": "0.4 - 3.2",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Normal"
+            },
+            "Imias": {
+                "cantidad": 74,
+                "rango": "0.7 - 3.7",
+                "magnitud_equivalente": 3.7,
+                "valor_energetico": "Alta"
+            },
+            "Moa-Purial": {
+                "cantidad": 19,
+                "rango": "0.5 - 2.4",
+                "magnitud_equivalente": 2.6,
+                "valor_energetico": "Normal"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 4,
+                "rango": "0.5 - 2.2",
+                "magnitud_equivalente": 2.3,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 8,
+                "rango": "0.5 - 2.5",
+                "magnitud_equivalente": 2.6,
+                "valor_energetico": "Normal"
+            },
+            "Centro": {
+                "cantidad": 23,
+                "rango": "0.5 - 3.8",
+                "magnitud_equivalente": 3.8,
+                "valor_energetico": "Alta"
+            },
+            "Pinar": {
+                "cantidad": 2,
+                "rango": "1.9 - 2.0",
+                "magnitud_equivalente": 2.1,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 34,
+                "rango": "1.6 - 3.1",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Normal"
+            },
+            "Bahamas Sur": {
+                "cantidad": 4,
+                "rango": "2.4 - 3.1",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 28,
+                "rango": "2.3 - 3.5",
+                "magnitud_equivalente": 3.6,
+                "valor_energetico": "Normal"
+            }
+        }
+    },
+    "marzo": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 21,
+                "rango": "2.2 - 3.4",
+                "magnitud_equivalente": 3.5,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 25,
+                "rango": "1.1 - 2.9",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Normal"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 102,
+                "rango": "0.6 - 2.6",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Normal"
+            },
+            "Imias": {
+                "cantidad": 22,
+                "rango": "0.6 - 2.5",
+                "magnitud_equivalente": 2.7,
+                "valor_energetico": "Normal"
+            },
+            "Moa-Purial": {
+                "cantidad": 11,
+                "rango": "0.9 - 2.7",
+                "magnitud_equivalente": 2.8,
+                "valor_energetico": "Normal"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 4,
+                "rango": "1.5 - 2.2",
+                "magnitud_equivalente": 2.4,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 6,
+                "rango": "1.9 - 3.2",
+                "magnitud_equivalente": 3.2,
+                "valor_energetico": "Alta"
+            },
+            "Centro": {
+                "cantidad": 13,
+                "rango": "1.1 - 2.9",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Normal"
+            },
+            "Pinar": {
+                "cantidad": 4,
+                "rango": "1.9 - 2.1",
+                "magnitud_equivalente": 2.3,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 26,
+                "rango": "2.2 - 3.1",
+                "magnitud_equivalente": 3.4,
+                "valor_energetico": "Normal"
+            },
+            "Bahamas Norte": {
+                "cantidad": 1,
+                "rango": "2.8",
+                "magnitud_equivalente": 2.8,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 54,
+                "rango": "2.2 - 3.9",
+                "magnitud_equivalente": 4.0,
+                "valor_energetico": "Alta"
+            }
+        }
+    },
+    "mayo": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 24,
+                "rango": "1.2 - 3.1",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 348,
+                "rango": "0.3 - 4.6",
+                "magnitud_equivalente": 4.6,
+                "valor_energetico": "Alta"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 151,
+                "rango": "0.4 - 2.8",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Alta"
+            },
+            "Imias": {
+                "cantidad": 101,
+                "rango": "0.6 - 3.1",
+                "magnitud_equivalente": 3.2,
+                "valor_energetico": "Alta"
+            },
+            "Moa-Purial": {
+                "cantidad": 44,
+                "rango": "0.7 - 2.5",
+                "magnitud_equivalente": 2.7,
+                "valor_energetico": "Normal"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 4,
+                "rango": "1.4 - 2.0",
+                "magnitud_equivalente": 2.2,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 14,
+                "rango": "1.3 - 3.0",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Alta"
+            },
+            "Centro": {
+                "cantidad": 17,
+                "rango": "0.5 - 2.5",
+                "magnitud_equivalente": 2.5,
+                "valor_energetico": "Normal"
+            },
+            "Pinar": {
+                "cantidad": 4,
+                "rango": "1.2 - 3.1",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Alta"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 52,
+                "rango": "1.4 - 3.3",
+                "magnitud_equivalente": 3.4,
+                "valor_energetico": "Alta"
+            },
+            "Bahamas Sur": {
+                "cantidad": 2,
+                "rango": "2.2 - 2.4",
+                "magnitud_equivalente": 2.4,
+                "valor_energetico": "Normal"
+            },
+            "Bahamas Norte": {
+                "cantidad": 2,
+                "rango": "2.2 - 3.2",
+                "magnitud_equivalente": 3.2,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 36,
+                "rango": "1.9 - 3.9",
+                "magnitud_equivalente": 4.0,
+                "valor_energetico": "Alta"
+            }
+        }
+    },
+    "noviembre": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 19,
+                "rango": "1.9 - 2.9",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Normal"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 40,
+                "rango": "0.2 - 3.0",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Normal"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 75,
+                "rango": "0.5 - 2.9",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Normal"
+            },
+            "Imias": {
+                "cantidad": 20,
+                "rango": "1.4 - 2.7",
+                "magnitud_equivalente": 2.8,
+                "valor_energetico": "Normal"
+            },
+            "Moa-Purial": {
+                "cantidad": 11,
+                "rango": "0.2 - 2.5",
+                "magnitud_equivalente": 2.5,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 4,
+                "rango": "1.5 - 2.3",
+                "magnitud_equivalente": 2.3,
+                "valor_energetico": "Normal"
+            },
+            "Centro": {
+                "cantidad": 3,
+                "rango": "1.8 - 2.9",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 32,
+                "rango": "2.4 - 3.4",
+                "magnitud_equivalente": 3.7,
+                "valor_energetico": "Alta"
+            },
+            "Bahamas Sur": {
+                "cantidad": 1,
+                "rango": "3.0",
+                "magnitud_equivalente": 3.0,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 8,
+                "rango": "2.5 - 3.6",
+                "magnitud_equivalente": 3.8,
+                "valor_energetico": "Normal"
+            }
+        }
+    },
+    "octubre": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 32,
+                "rango": "0.9 - 3.2",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Alta"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 432,
+                "rango": "0.2 - 3.3",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Alta"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 63,
+                "rango": "0.5 - 2.9",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Normal"
+            },
+            "Imias": {
+                "cantidad": 47,
+                "rango": "0.7 - 3.5",
+                "magnitud_equivalente": 3.5,
+                "valor_energetico": "Alta"
+            },
+            "Moa-Purial": {
+                "cantidad": 4,
+                "rango": "1.4 - 1.7",
+                "magnitud_equivalente": 1.8,
+                "valor_energetico": "Normal"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 6,
+                "rango": "0.8 - 2.2",
+                "magnitud_equivalente": 2.2,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 8,
+                "rango": "1.8 - 2.7",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Normal"
+            },
+            "Centro": {
+                "cantidad": 3,
+                "rango": "2.0 - 2.1",
+                "magnitud_equivalente": 2.2,
+                "valor_energetico": "Normal"
+            },
+            "Pinar": {
+                "cantidad": 1,
+                "rango": "2.2",
+                "magnitud_equivalente": 2.2,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 18,
+                "rango": "1.3 - 3.2",
+                "magnitud_equivalente": 3.5,
+                "valor_energetico": "Alta"
+            },
+            "Bahamas Sur": {
+                "cantidad": 1,
+                "rango": "2.7",
+                "magnitud_equivalente": 2.7,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 6,
+                "rango": "2.6 - 3.5",
+                "magnitud_equivalente": 3.5,
+                "valor_energetico": "Normal"
+            }
+        }
+    },
+    "septiembre": {
+        "zonas": {
+            "Cabo-Cruz": {
+                "cantidad": 22,
+                "rango": "1.0 - 2.9",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Normal"
+            },
+            "Pilon-Chivirico": {
+                "cantidad": 102,
+                "rango": "0.4 - 3.7",
+                "magnitud_equivalente": 3.7,
+                "valor_energetico": "Alta"
+            },
+            "Santiago-Baconao": {
+                "cantidad": 69,
+                "rango": "0.8 - 2.8",
+                "magnitud_equivalente": 3.1,
+                "valor_energetico": "Normal"
+            },
+            "Imias": {
+                "cantidad": 39,
+                "rango": "0.7 - 3.3",
+                "magnitud_equivalente": 3.3,
+                "valor_energetico": "Alta"
+            },
+            "Moa-Purial": {
+                "cantidad": 29,
+                "rango": "0.2 - 2.8",
+                "magnitud_equivalente": 2.8,
+                "valor_energetico": "Normal"
+            },
+            "Cauto-Guacanayabo": {
+                "cantidad": 5,
+                "rango": "0.8 - 2.2",
+                "magnitud_equivalente": 2.3,
+                "valor_energetico": "Normal"
+            },
+            "Camaguey-Cubitas": {
+                "cantidad": 7,
+                "rango": "1.4 - 2.9",
+                "magnitud_equivalente": 2.9,
+                "valor_energetico": "Normal"
+            },
+            "Centro": {
+                "cantidad": 4,
+                "rango": "1.8 - 3.2",
+                "magnitud_equivalente": 3.2,
+                "valor_energetico": "Alta"
+            },
+            "Pinar": {
+                "cantidad": 1,
+                "rango": "2.2",
+                "magnitud_equivalente": 2.2,
+                "valor_energetico": "Normal"
+            },
+            "Paso de los Vientos-Gran Inagua": {
+                "cantidad": 28,
+                "rango": "2.1 - 3.5",
+                "magnitud_equivalente": 3.7,
+                "valor_energetico": "Alta"
+            },
+            "Bahamas Sur": {
+                "cantidad": 2,
+                "rango": "2.5 - 2.6",
+                "magnitud_equivalente": 2.6,
+                "valor_energetico": "Normal"
+            },
+            "Caiman": {
+                "cantidad": 9,
+                "rango": "2.6 - 4.3",
+                "magnitud_equivalente": 4.3,
+                "valor_energetico": "Alta"
+            }
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "fecha": "19-ene-12",
+            "hora_UTC": "11:16:17",
+            "hora_local": "06:16 AM",
+            "longitud": -76.46,
+            "latitud": 19.75,
+            "profundidad": 8.0,
+            "magnitud": 3.0,
+            "intensidad": "III",
+            "localizacion": "24.7Km SSE Chivirico, Stgo de Cuba"
+        },
+        {
+            "fecha": "04-feb-12",
+            "hora_UTC": "08:42:28",
+            "hora_local": "03:42 AM",
+            "longitud": -79.98,
+            "latitud": 23.03,
+            "profundidad": 2.6,
+            "magnitud": 2.5,
+            "intensidad": "III",
+            "localizacion": "36.2Km NNW Encrucijada, Villa Clara"
+        },
+        {
+            "fecha": "10-mar-12",
+            "hora_UTC": "08:34:50",
+            "hora_local": "03:34 AM",
+            "longitud": -76.46,
+            "latitud": 19.19,
+            "profundidad": 10.0,
+            "magnitud": 4.8,
+            "intensidad": "III-IV",
+            "localizacion": "86.8Km S Chivirico, Stgo de Cuba"
+        },
+        {
+            "fecha": "26-abr-12",
+            "hora_UTC": "19:25:12",
+            "hora_local": "03:25 PM",
+            "longitud": -74.61,
+            "latitud": 20.48,
+            "profundidad": 9.7,
+            "magnitud": 3.2,
+            "intensidad": "III",
+            "localizacion": "18.6Km NW de Baracoa, Guantanamo"
+        },
+        {
+            "fecha": "21-May-12",
+            "hora_UTC": "16:59",
+            "hora_local": "12:59PM",
+            "longitud": -75.63,
+            "latitud": 19.67,
+            "profundidad": 10.0,
+            "magnitud": 3.6,
+            "intensidad": "III",
+            "localizacion": "SE de La Ciudad de Stgo de Cuba"
+        },
+        {
+            "fecha": "29-May-12",
+            "hora_UTC": "08:56:59",
+            "hora_local": "03:56AM",
+            "longitud": -78.08,
+            "latitud": 22.18,
+            "profundidad": 10.0,
+            "magnitud": 3.0,
+            "intensidad": "III",
+            "localizacion": "27.6 KM ENE del Municipio Bolivia (Ciego de avila)"
+        },
+        {
+            "fecha": "31-May-12",
+            "hora_UTC": "00:23:12",
+            "hora_local": "08:23PM",
+            "longitud": -78.16,
+            "latitud": 22.52,
+            "profundidad": 10.0,
+            "magnitud": 3.2,
+            "intensidad": "III",
+            "localizacion": "42.8 Km al N d el municipio Bolivia (Ciego de avila)"
+        },
+        {
+            "fecha": "15-Ago-12",
+            "hora_UTC": "13:21:49",
+            "hora_local": "10:21AM",
+            "longitud": -79.25,
+            "latitud": 22.45,
+            "profundidad": 10.0,
+            "magnitud": 2.4,
+            "intensidad": "III",
+            "localizacion": "Noreste del municipio Caibarien (Villa Clara)"
+        },
+        {
+            "fecha": "19-Nov-12",
+            "hora_UTC": "00:19:41",
+            "hora_local": "07:19PM",
+            "longitud": -79.92,
+            "latitud": 22.75,
+            "profundidad": 10,
+            "magnitud": 3.3,
+            "intensidad": "III",
+            "localizacion": "NNW Encricijada,Villa Clara"
+        },
+        {
+            "fecha": "19-Nov-12",
+            "hora_UTC": "01:12:35",
+            "hora_local": "08:00PM",
+            "longitud": -79.92,
+            "latitud": 22.75,
+            "profundidad": 10,
+            "magnitud": 2.7,
+            "intensidad": "II",
+            "localizacion": "NNW Encricijada,Villa Clara"
+        },
+        {
+            "fecha": "26-Nov-12",
+            "hora_UTC": "09:53:00",
+            "hora_local": "04:53AM",
+            "longitud": -77.91,
+            "latitud": 20.01,
+            "profundidad": 10,
+            "magnitud": 2.5,
+            "intensidad": "II",
+            "localizacion": "NE Esmeralda, Camaguey"
+        },
+        {
+            "fecha": "26-Nov-12",
+            "hora_UTC": "11:12:00",
+            "hora_local": "06:12:AM",
+            "longitud": -79.79,
+            "latitud": 22.85,
+            "profundidad": 2.5,
+            "magnitud": 2.4,
+            "intensidad": "II",
+            "localizacion": "NNW Encricijada,Villa Clara"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "zonas de Actividad Sismica": "Cabo-Cruz-Pilon",
+            "Cantidad": 229,
+            "Mmax": 3.1,
+            "Perceptibles": 1
+        },
+        {
+            "zonas de Actividad Sismica": "Chivirico",
+            "Cantidad": 410,
+            "Mmax": 3.3,
+            "Perceptibles": 9
+        },
+        {
+            "zonas de Actividad Sismica": "Santiago-Baconao",
+            "Cantidad": 1210,
+            "Mmax": 4.0,
+            "Perceptibles": 4
+        },
+        {
+            "zonas de Actividad Sismica": "Guantanamo-Maisi",
+            "Cantidad": 113,
+            "Mmax": 3.0,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Centro oriente",
+            "Cantidad": 15,
+            "Mmax": 2.1,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Moa-Purial",
+            "Cantidad": 539,
+            "Mmax": 3.0,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Camaguey-Cubitas",
+            "Cantidad": 10,
+            "Mmax": 2.5,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Holguin-Gibara",
+            "Cantidad": 5,
+            "Mmax": 2.6,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Resto Cuba",
+            "Cantidad": 17,
+            "Mmax": 4.2,
+            "Perceptibles": 1
+        },
+        {
+            "zonas de Actividad Sismica": "Bartlett",
+            "Cantidad": 58,
+            "Mmax": 3.3,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Bahamas",
+            "Cantidad": 0,
+            "Mmax": null,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Caiman",
+            "Cantidad": 8,
+            "Mmax": 4.5,
+            "Perceptibles": 0
+        }
+    ]
+}

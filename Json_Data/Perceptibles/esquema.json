@@ -1,0 +1,15 @@
+{
+    "perceptibles" : {
+        {
+            "localidad":"",
+            "fecha":"",
+            "hora":"",
+            "ln":0,
+            "lw":0,
+            "profundidad":0,
+            "magnitud":0,
+            "region":"",
+            "provincia":""
+        }
+    }
+}

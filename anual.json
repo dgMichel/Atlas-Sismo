@@ -1,0 +1,39 @@
+{
+    "total" : 0, 
+    "perceptibles" : {
+        "#":{
+            "localidad":"",
+            "fecha":"",
+            "hora":"",
+            "ln":0,
+            "lw":0,
+            "profundidad":0,
+            "magnitud":0,
+            "region":"",
+            "provincia":""
+        }
+    },
+    "dia_activo":{
+        "fecha":"",
+        "cantidad":0
+    },
+    "Zona_activa":{
+        "nombre":"",
+        "cantidad":0
+    },
+    "Zona_energetica":"",
+    "Terremoto_principal":{
+        "fecha":"",
+        "magnitud":0,
+        "lugar":""
+    },
+    "mapa_epicentro":"",
+    "zonas":{
+        "name":{
+            "cantidad":0,
+            "rango":"",
+            "magnitud_equivalente":0,
+            "valor_energetico":""
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "data": [
+        {
+            "Fecha": "01-ene-14",
+            "Hora UTC": "18:43:00",
+            "Hora Local": "10:43AM",
+            "Longitud": -76.17,
+            "Latitud": 19.64,
+            "Profundidad": 20.0,
+            "Magnitud": 3.4,
+            "Localizacion": "SE de Chivirico (Santiago de Cuba)"
+        },
+        {
+            "Fecha": "09-ene-14",
+            "Hora UTC": "20:53:00",
+            "Hora Local": "3:53PM",
+            "Longitud": -80.99,
+            "Latitud": 23.39,
+            "Profundidad": 20.0,
+            "Magnitud": 4.9,
+            "Localizacion": "NE Varadero (Matanzas)"
+        },
+        {
+            "Fecha": "10-ene-14",
+            "Hora UTC": "11:23:00",
+            "Hora Local": "6:23AM",
+            "Longitud": -80.62,
+            "Latitud": 23.4,
+            "Profundidad": 10.0,
+            "Magnitud": 3.9,
+            "Localizacion": "N Corralillo (Villa Clara)"
+        },
+        {
+            "Fecha": "13-ene-14",
+            "Hora UTC": "00:43:00",
+            "Hora Local": "7:43PM",
+            "Longitud": -80.68,
+            "Latitud": 23.31,
+            "Profundidad": 7.1,
+            "Magnitud": 3.7,
+            "Localizacion": "NO Corralillo (Villa Clara)"
+        },
+        {
+            "Fecha": "17-ene-14",
+            "Hora UTC": "16:45:00",
+            "Hora Local": "11:45AM",
+            "Longitud": -80.61,
+            "Latitud": 23.37,
+            "Profundidad": 7.1,
+            "Magnitud": 3.4,
+            "Localizacion": "N Corralillo (Villa Clara)"
+        },
+        {
+            "Fecha": "04-feb-14",
+            "Hora UTC": "03:19:00",
+            "Hora Local": "10:19PM",
+            "Longitud": -80.77,
+            "Latitud": 23.57,
+            "Profundidad": 15.0,
+            "Magnitud": 4.3,
+            "Localizacion": "NE Varadero (Matanzas)"
+        },
+        {
+            "Fecha": "22-feb-14",
+            "Hora UTC": "16:32:00",
+            "Hora Local": "11:32AM",
+            "Longitud": -75.85,
+            "Latitud": 19.95,
+            "Profundidad": 5.7,
+            "Magnitud": 2.4,
+            "Localizacion": "SO Santiago de Cuba"
+        },
+        {
+            "Fecha": "09-mar-14",
+            "Hora UTC": "11:26:00",
+            "Hora Local": "7:26AM",
+            "Longitud": -80.69,
+            "Latitud": 23.54,
+            "Profundidad": 8.8,
+            "Magnitud": 4.4,
+            "Localizacion": "NE Varadero (Matanzas)"
+        },
+        {
+            "Fecha": "30-mar-14",
+            "Hora UTC": "21:51:00",
+            "Hora Local": "5:51PM",
+            "Longitud": -80.68,
+            "Latitud": 23.37,
+            "Profundidad": 7.2,
+            "Magnitud": 3.8,
+            "Localizacion": "N Corralillo (Villa Clara)"
+        },
+        {
+            "Fecha": "05-abr-14",
+            "Hora UTC": "10:09:00",
+            "Hora Local": "6:09AM",
+            "Longitud": -80.56,
+            "Latitud": 23.23,
+            "Profundidad": 7.2,
+            "Magnitud": 3.8,
+            "Localizacion": "N Corralillo (Villa Clara)"
+        },
+        {
+            "Fecha": "13-abr-14",
+            "Hora UTC": "10:44:00",
+            "Hora Local": "6:44AM",
+            "Longitud": -75.89,
+            "Latitud": 19.81,
+            "Profundidad": 7.7,
+            "Magnitud": 2.9,
+            "Localizacion": "SO Santiago de Cuba"
+        },
+        {
+            "Fecha": "18-abr-14",
+            "Hora UTC": "12:51:39",
+            "Hora Local": "8:51AM",
+            "Longitud": -76.13,
+            "Latitud": 19.89,
+            "Profundidad": 9.0,
+            "Magnitud": 2.9,
+            "Localizacion": "SO Santiago de Cuba"
+        },
+        {
+            "Fecha": "21-abr-14",
+            "Hora UTC": "21:49:00",
+            "Hora Local": "5:59PM",
+            "Longitud": -75.54,
+            "Latitud": 19.75,
+            "Profundidad": 20.0,
+            "Magnitud": 3.0,
+            "Localizacion": "SE Santiago de Cuba"
+        },
+        {
+            "Fecha": "02-jun-14",
+            "Hora UTC": "15:12:00",
+            "Hora Local": "11:12AM",
+            "Longitud": -76.23,
+            "Latitud": 19.89,
+            "Profundidad": 5.0,
+            "Magnitud": 3.5,
+            "Localizacion": "ESE Chivirico"
+        },
+        {
+            "Fecha": "11-jun-14",
+            "Hora UTC": "10:02:00",
+            "Hora Local": "6:02AM",
+            "Longitud": -76.94,
+            "Latitud": 19.79,
+            "Profundidad": 20.0,
+            "Magnitud": 3.2,
+            "Localizacion": "SSW La Plata"
+        },
+        {
+            "Fecha": "25-ago-14",
+            "Hora UTC": "23:58:00",
+            "Hora Local": "7:58PM",
+            "Longitud": -76.29,
+            "Latitud": 19.82,
+            "Profundidad": 10.0,
+            "Magnitud": 4.2,
+            "Localizacion": "SE Chivirico"
+        },
+        {
+            "Fecha": "22-sep-14",
+            "Hora UTC": "01:58:00",
+            "Hora Local": "9:50PM",
+            "Longitud": -77.0,
+            "Latitud": 19.82,
+            "Profundidad": 25.0,
+            "Magnitud": 3.1,
+            "Localizacion": "SW La Plata"
+        },
+        {
+            "Fecha": "19-oct-14",
+            "Hora UTC": "05:25:00",
+            "Hora Local": "1:25AM",
+            "Longitud": -74.36,
+            "Latitud": 19.9,
+            "Profundidad": 12.5,
+            "Magnitud": 4.0,
+            "Localizacion": "SE de Imias"
+        },
+        {
+            "Fecha": "19-oct-14",
+            "Hora UTC": "12:50:00",
+            "Hora Local": "8:50AM",
+            "Longitud": -74.33,
+            "Latitud": 19.8,
+            "Profundidad": 12.5,
+            "Magnitud": 3.7,
+            "Localizacion": "SE de Imias"
+        },
+        {
+            "Fecha": "13-nov-14",
+            "Hora UTC": "22:50:00",
+            "Hora Local": "5:50PM",
+            "Longitud": -76.31,
+            "Latitud": 19.73,
+            "Profundidad": 5.0,
+            "Magnitud": 3.3,
+            "Localizacion": "SSE de Chivirico"
+        }
+    ]
+}

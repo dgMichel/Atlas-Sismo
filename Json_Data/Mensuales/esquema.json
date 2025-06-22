@@ -1,0 +1,21 @@
+{
+    "total":0,
+    "dia_activo":{
+        "fecha":"",
+        "cantidad":0
+    },
+    "name_activa":{
+        "nombre":"",
+        "cantidad":0
+    },
+    "name_energetica":"",
+    "mapa_epicentro":"",
+    "zonas":{
+        "name":{
+            "cantidad":0,
+            "rango":"",
+            "magnitud_equivalente":0,
+            "valor_energetico":""
+        }
+    }
+}

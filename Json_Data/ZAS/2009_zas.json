@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "zonas de Actividad Sismica": "Cabo-Cruz-Pilon",
+            "Cantidad": 268,
+            "Mmax": 3.6,
+            "Perceptibles": 2
+        },
+        {
+            "zonas de Actividad Sismica": "Chivirico",
+            "Cantidad": 302,
+            "Mmax": 3.1,
+            "Perceptibles": 1
+        },
+        {
+            "zonas de Actividad Sismica": "SANTIAGO -BACO NAO",
+            "Cantidad": 1092,
+            "Mmax": 4.0,
+            "Perceptibles": 6
+        },
+        {
+            "zonas de Actividad Sismica": "Guantanamo-Maisi",
+            "Cantidad": 274,
+            "Mmax": 3.5,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Centro oriente",
+            "Cantidad": 21,
+            "Mmax": 2.5,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Moa-Purial",
+            "Cantidad": 61,
+            "Mmax": 3.5,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Camaguey-Cubitas",
+            "Cantidad": 2,
+            "Mmax": 2.0,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Holguin-Gibara",
+            "Cantidad": 12,
+            "Mmax": 2.8,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Resto Cuba",
+            "Cantidad": 14,
+            "Mmax": 3.0,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Bartlett",
+            "Cantidad": 94,
+            "Mmax": 3.8,
+            "Perceptibles": 0
+        },
+        {
+            "zonas de Actividad Sismica": "Caiman",
+            "Cantidad": 11,
+            "Mmax": 3.9,
+            "Perceptibles": 0
+        }
+    ]
+}

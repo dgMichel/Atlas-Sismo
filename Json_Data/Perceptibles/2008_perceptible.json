@@ -1,0 +1,169 @@
+{
+    "data": [
+        {
+            "#": 1,
+            "FECHA": "24/01/2008",
+            "TIEMPO": "17:12",
+            "LATN": 19.86,
+            "LONW": 76.15,
+            "H": 10.0,
+            "MD": 3.4,
+            "IMAX": "III",
+            "localidad": "Sur este Chivirico, Santiago de Cuba"
+        },
+        {
+            "#": 2,
+            "FECHA": "24/01/2008",
+            "TIEMPO": "17:22",
+            "LATN": 19.74,
+            "LONW": 76.16,
+            "H": 10.0,
+            "MD": 3.4,
+            "IMAX": "III",
+            "localidad": "Sur este Chivirico, Santiago de Cuba"
+        },
+        {
+            "#": 3,
+            "FECHA": "24/01/2008",
+            "TIEMPO": "18:46",
+            "LATN": 19.68,
+            "LONW": 76.17,
+            "H": 10.0,
+            "MD": 3.6,
+            "IMAX": "III",
+            "localidad": "Sur este Chivirico, Santiago de Cuba"
+        },
+        {
+            "#": 4,
+            "FECHA": "24/01/2008",
+            "TIEMPO": "19:13",
+            "LATN": 19.74,
+            "LONW": 76.19,
+            "H": 10.0,
+            "MD": 3.1,
+            "IMAX": "III",
+            "localidad": "Sur este Chivirico, Santiago de Cuba"
+        },
+        {
+            "#": 5,
+            "FECHA": "24/01/2008",
+            "TIEMPO": "20:23",
+            "LATN": 19.72,
+            "LONW": 76.19,
+            "H": 10.0,
+            "MD": 3.1,
+            "IMAX": "III",
+            "localidad": "Sur este Chivirico, Santiago de Cuba"
+        },
+        {
+            "#": 6,
+            "FECHA": "24/01/2008",
+            "TIEMPO": "21:06",
+            "LATN": 19.71,
+            "LONW": 76.15,
+            "H": 10.0,
+            "MD": 3.9,
+            "IMAX": "III",
+            "localidad": "Sur este Chivirico, Santiago de Cuba"
+        },
+        {
+            "#": 7,
+            "FECHA": "11/02/2008",
+            "TIEMPO": "09:09",
+            "LATN": 19.75,
+            "LONW": 75.5,
+            "H": 14.0,
+            "MD": 4.0,
+            "IMAX": "IV",
+            "localidad": "Sur oeste Baconao, Santiago de Cuba"
+        },
+        {
+            "#": 8,
+            "FECHA": "28/02/2008",
+            "TIEMPO": "05:52",
+            "LATN": 19.45,
+            "LONW": 75.79,
+            "H": 10.0,
+            "MD": 3.2,
+            "IMAX": "III",
+            "localidad": "Sur Bahia de Santiago de Cuba"
+        },
+        {
+            "#": 9,
+            "FECHA": "07/05/2008",
+            "TIEMPO": "05:43",
+            "LATN": 19.82,
+            "LONW": 75.46,
+            "H": 7.1,
+            "MD": 3.0,
+            "IMAX": "III",
+            "localidad": "Sur B aconao, Santiago de Cuba"
+        },
+        {
+            "#": 10,
+            "FECHA": "14/05/2008",
+            "TIEMPO": "22:17",
+            "LATN": 19.69,
+            "LONW": 75.49,
+            "H": 17.9,
+            "MD": 3.1,
+            "IMAX": "III",
+            "localidad": "Sur Baconao, Santiago de Cuba"
+        },
+        {
+            "#": 11,
+            "FECHA": "18/05/2008",
+            "TIEMPO": "16:04",
+            "LATN": 19.66,
+            "LONW": 76.14,
+            "H": 7.1,
+            "MD": 3.4,
+            "IMAX": "III",
+            "localidad": "Sur este Chivirico, Santiago de Cuba"
+        },
+        {
+            "#": 12,
+            "FECHA": "08/06/2008",
+            "TIEMPO": "16:18",
+            "LATN": 19.81,
+            "LONW": 75.34,
+            "H": 9.6,
+            "MD": 3.0,
+            "IMAX": "III",
+            "localidad": "Sur este Baconao, Santiago  de Cuba"
+        },
+        {
+            "#": 13,
+            "FECHA": "28/10/2008",
+            "TIEMPO": "19:49",
+            "LATN": 19.71,
+            "LONW": 78.85,
+            "H": 25.0,
+            "MD": 4.5,
+            "IMAX": "III",
+            "localidad": "Oeste de Cabo-Cruz, Granma"
+        },
+        {
+            "#": 14,
+            "FECHA": "15/12/2008",
+            "TIEMPO": "19:31",
+            "LATN": 23.18,
+            "LONW": 79.62,
+            "H": 31.0,
+            "MD": 4.2,
+            "IMAX": "III",
+            "localidad": "Noreste Sagua La Grande, Villa Clara"
+        },
+        {
+            "#": 15,
+            "FECHA": "30/12/2008",
+            "TIEMPO": "19:47",
+            "LATN": 19.34,
+            "LONW": 76.43,
+            "H": 20.0,
+            "MD": 2.9,
+            "IMAX": "III",
+            "localidad": "Sur este Chivirico, Santiago de Cuba"
+        }
+    ]
+}

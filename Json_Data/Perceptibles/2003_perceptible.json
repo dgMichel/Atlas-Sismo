@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "FECHA": "19/01/03",
+            "TIEMPO": 194234.7,
+            "LATIT": 19.91,
+            "LONG": 75.33,
+            "MD": 3.5,
+            "IMAX": 3.0,
+            "localidad": "BACONAO",
+            "PROF": 25.0,
+            "MAG": 3.5
+        },
+        {
+            "FECHA": "08/03/03",
+            "TIEMPO": 234332.7,
+            "LATIT": 19.71,
+            "LONG": 75.29,
+            "MD": 3.3,
+            "IMAX": 3.0,
+            "localidad": "BACONAO",
+            "PROF": 20.0,
+            "MAG": 3.5
+        },
+        {
+            "FECHA": "02/04/03",
+            "TIEMPO": 30333.6,
+            "LATIT": 19.86,
+            "LONG": 76.46,
+            "MD": 3.5,
+            "IMAX": 3.0,
+            "localidad": "Chivirico",
+            "PROF": 2.5,
+            "MAG": 4.1
+        },
+        {
+            "FECHA": "22/04/03",
+            "TIEMPO": 215250.7,
+            "LATIT": 19.75,
+            "LONG": 75.31,
+            "MD": 3.0,
+            "IMAX": 3.0,
+            "localidad": "BACONAO",
+            "PROF": 15.0,
+            "MAG": 4.3
+        },
+        {
+            "FECHA": "31/05/03",
+            "TIEMPO": 11607.8,
+            "LATIT": 20.02,
+            "LONG": 75.49,
+            "MD": 3.0,
+            "IMAX": 3.0,
+            "localidad": "BACONAO",
+            "PROF": 17.5,
+            "MAG": 2.8
+        },
+        {
+            "FECHA": "20/07/03",
+            "TIEMPO": 185359.0,
+            "LATIT": 19.83,
+            "LONG": 75.54,
+            "MD": 3.5,
+            "IMAX": 3.5,
+            "localidad": "BACONAO",
+            "PROF": 22.5,
+            "MAG": 3.5
+        },
+        {
+            "FECHA": "01/08/03",
+            "TIEMPO": 134534.7,
+            "LATIT": 19.48,
+            "LONG": 76.48,
+            "MD": 4.1,
+            "IMAX": 3.0,
+            "localidad": "Chivirico",
+            "PROF": 10.0,
+            "MAG": 5.2
+        },
+        {
+            "FECHA": "10/09/03",
+            "TIEMPO": 103633.1,
+            "LATIT": 19.73,
+            "LONG": 76.83,
+            "MD": 3.1,
+            "IMAX": 3.0,
+            "localidad": "PICO TURQUINO",
+            "PROF": 15.0,
+            "MAG": 3.1
+        },
+        {
+            "FECHA": "22/09/03",
+            "TIEMPO": 44527.0,
+            "LATIT": 20.7,
+            "LONG": 69.79,
+            "MD": 5.8,
+            "IMAX": 3.0,
+            "localidad": "REPUBLICA DOMINICANA",
+            "PROF": 20.0,
+            "MAG": 5.6
+        },
+        {
+            "FECHA": "13/10/03",
+            "TIEMPO": 163052.9,
+            "LATIT": 20.04,
+            "LONG": 75.91,
+            "MD": 4.5,
+            "IMAX": 5.5,
+            "localidad": "MAR VERDE",
+            "PROF": 15.0,
+            "MAG": 4.5
+        },
+        {
+            "FECHA": "13/10/03",
+            "TIEMPO": 163515.3,
+            "LATIT": 19.86,
+            "LONG": 75.85,
+            "MD": 2.8,
+            "IMAX": 3.0,
+            "localidad": "MAR VERDE",
+            "PROF": 12.5,
+            "MAG": 2.8
+        },
+        {
+            "FECHA": "16/10/03",
+            "TIEMPO": 173252.0,
+            "LATIT": 19.95,
+            "LONG": 76.27,
+            "MD": 3.8,
+            "IMAX": 2.5,
+            "localidad": "Chivirico",
+            "PROF": 30.0,
+            "MAG": 3.0
+        },
+        {
+            "FECHA": "22/11/03",
+            "TIEMPO": 22905.4,
+            "LATIT": 19.27,
+            "LONG": 78.06,
+            "MD": 4.5,
+            "IMAX": 4.0,
+            "localidad": "NIQUERO",
+            "PROF": 15.0,
+            "MAG": 4.3
+        }
+    ]
+}

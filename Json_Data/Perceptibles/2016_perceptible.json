@@ -1,0 +1,584 @@
+{
+"data": [
+{
+"No": 1,
+"Fecha": "10-01",
+"Hora": "10:00 am",
+"Latitud": 19.88,
+"Longitud": -75.47,
+"Prof": 42.2,
+"Mag": 3.2,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 2,
+"Fecha": "17-01",
+"Hora": "1:37 am",
+"Latitud": 19.67,
+"Longitud": -76.04,
+"Prof": 5,
+"Mag": 4.8,
+"Perceptibilidad": "Santiago de Cuba, Guantanamo, Granma y Holguin."
+},
+{
+"No": 3,
+"Fecha": "17-01",
+"Hora": "1:48 am",
+"Latitud": 19.63,
+"Longitud": -76.05,
+"Prof": 2.5,
+"Mag": 4.6,
+"Perceptibilidad": "Santiago de Cuba, Guantanamo,  Granma y Holguin."
+},
+{
+"No": 4,
+"Fecha": "17-01",
+"Hora": "3:07 am",
+"Latitud": 19.66,
+"Longitud": -76.04,
+"Prof": 3,
+"Mag": 3.0,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 5,
+"Fecha": "17-01",
+"Hora": "3:17 am",
+"Latitud": 19.69,
+"Longitud": -76.03,
+"Prof": 5,
+"Mag": 4.7,
+"Perceptibilidad": "Santiago de Cuba, Guantanamo, Granma y Holguin."
+},
+{
+"No": 6,
+"Fecha": "17-01",
+"Hora": "3:30 am",
+"Latitud": 19.72,
+"Longitud": -76.09,
+"Prof": 5,
+"Mag": 5.0,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 7,
+"Fecha": "17-01",
+"Hora": "3:37 am",
+"Latitud": 19.66,
+"Longitud": -76.07,
+"Prof": 3,
+"Mag": 4.0,
+"Perceptibilidad": "Santiago de Cuba y Guantanamo"
+},
+{
+"No": 8,
+"Fecha": "17-01",
+"Hora": "4:42 am",
+"Latitud": 19.75,
+"Longitud": -76.05,
+"Prof": 3,
+"Mag": 3.8,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 9,
+"Fecha": "17-01",
+"Hora": "5:04 am",
+"Latitud": 19.67,
+"Longitud": -76.04,
+"Prof": 5,
+"Mag": 3.8,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 10,
+"Fecha": "17-01",
+"Hora": "5:07 am",
+"Latitud": 19.64,
+"Longitud": -76.05,
+"Prof": 5,
+"Mag": 3.6,
+"Perceptibilidad": "Santiago de Cuba y Guantanamo"
+},
+{
+"No": 11,
+"Fecha": "17-01",
+"Hora": "05:17 am",
+"Latitud": 19.70,
+"Longitud": -76.76,
+"Prof": 3,
+"Mag": 3.4,
+"Perceptibilidad": "Santiago de Cuba y Guantanamo"
+},
+{
+"No": 12,
+"Fecha": "17-01",
+"Hora": "7:31 am",
+"Latitud": 19.73,
+"Longitud": -76.08,
+"Prof": 3,
+"Mag": 3.4,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 13,
+"Fecha": "17-01",
+"Hora": "9:22 am",
+"Latitud": 19.72,
+"Longitud": -76.06,
+"Prof": 3,
+"Mag": 3.4,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 14,
+"Fecha": "17-01",
+"Hora": "2:24 pm",
+"Latitud": 19.68,
+"Longitud": -76.11,
+"Prof": 3,
+"Mag": 3.1,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 15,
+"Fecha": "17-01",
+"Hora": "5:11 pm",
+"Latitud": 19.63,
+"Longitud": -76.13,
+"Prof": 3,
+"Mag": 2.7,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 16,
+"Fecha": "17-01",
+"Hora": "7:00 pm",
+"Latitud": 19.69,
+"Longitud": -76.07,
+"Prof": 3,
+"Mag": 3.3,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 17,
+"Fecha": "17-01",
+"Hora": "8:06 pm",
+"Latitud": 19.67,
+"Longitud": -76.05,
+"Prof": 5,
+"Mag": 2.9,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 18,
+"Fecha": "17-01",
+"Hora": "9:35 pm",
+"Latitud": 19.73,
+"Longitud": -76.06,
+"Prof": 3,
+"Mag": 3.0,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 19,
+"Fecha": "18-01",
+"Hora": "1:16 am",
+"Latitud": 19.75,
+"Longitud": -76.05,
+"Prof": 5,
+"Mag": 4.4,
+"Perceptibilidad": "Santiago de Cuba y Guantanamo"
+},
+{
+"No": 20,
+"Fecha": "18-01",
+"Hora": "2:49 am",
+"Latitud": 19.70,
+"Longitud": -76.04,
+"Prof": 5,
+"Mag": 3.5,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 21,
+"Fecha": "18-01",
+"Hora": "16:14 pm",
+"Latitud": 19.76,
+"Longitud": -76.05,
+"Prof": 5,
+"Mag": 3.0,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 22,
+"Fecha": "18-01",
+"Hora": "11:45 pm",
+"Latitud": 19.70,
+"Longitud": -76.09,
+"Prof": 2,
+"Mag": 3.5,
+"Perceptibilidad": "Santiago de Cuba y Guantanamo"
+},
+{
+"No": 23,
+"Fecha": "19-01",
+"Hora": "3:42 am",
+"Latitud": 19.72,
+"Longitud": -76.09,
+"Prof": 5,
+"Mag": 3.9,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 24,
+"Fecha": "19-01",
+"Hora": "9:38 am",
+"Latitud": 19.77,
+"Longitud": -76.03,
+"Prof": 5,
+"Mag": 2.8,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 25,
+"Fecha": "19-01",
+"Hora": "11:02 am",
+"Latitud": 19.70,
+"Longitud": -76.13,
+"Prof": 5,
+"Mag": 3.0,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 26,
+"Fecha": "19-01",
+"Hora": "11:15 am",
+"Latitud": 19.74,
+"Longitud": -76.06,
+"Prof": 5,
+"Mag": 3.0,
+"Perceptibilidad": "Santiago de Cuba"
+},
+{
+"No": 27,
+"Fecha": "20-01",
+"Hora": "10:10 pm",
+"Latitud": 19.64,
+"Longitud": -76.09,
+"Prof": 5,
+"Mag": 4.0,
+"Perceptibilidad": "Santiago de Cuba, Guantanamo, Granma y Holguin."
+},
+{
+"No": 28,
+"Fecha": "21-01",
+"Hora": "3:12 pm",
+"Latitud": 19.71,
+"Longitud": -76.08,
+"Prof": 5,
+"Mag": 4.3,
+"Perceptibilidad": "Santiago de Cuba, Guantanamo, Granma y Holguin."
+},
+{
+"No": 29,
+"Fecha": "22-01",
+"Hora": "7:38 pm",
+"Latitud": 19.75,
+"Longitud": -76.09,
+"Prof": 8.9,
+"Mag": 3.0,
+"Perceptibilidad": "Santiago de Cuba y Granma"
+},
+{
+"No":30,
+"Fecha":"23-01",
+"Hora":"2:52 pm",
+"Latitud":19.76,
+"Longitud":-76.01,
+"Prof":5,
+"Mag":4.1,
+"Perceptibilidad":"Santiago de Cuba, Granma y Guantanamo"
+},
+{
+"No":31,
+"Fecha":"23-01",
+"Hora":"4:30 pm",
+"Latitud":"19.85",
+"Longitud":-76.04,
+"Prof":5,
+"Mag":3.1,
+"Perceptibilidad":"Santiago de Cuba"
+},
+{
+"No":32,
+"Fecha":"23-01",
+"Hora":"4:42 pm",
+"Latitud":19.72,
+"Longitud":-76.01,
+"Prof":5,
+"Mag":3.6,
+"Perceptibilidad":"Santiago de Cuba"
+},
+{
+"No":33,
+"Fecha":"24-01",
+"Hora":"8:08 am",
+"Latitud":19.84,
+"Longitud":-75.38,
+"Prof":5,
+"Mag":3.7,
+"Perceptibilidad":"Santiago de Cuba y Guantanamo"
+},
+{
+"No":34,
+"Fecha":"25-01",
+"Hora":"1:05 pm",
+"Latitud":19.68,
+"Longitud":-76.06,
+"Prof":5,
+"Mag":4.7,
+"Perceptibilidad":"Santiago de Cuba, Guantanamo, Granma y Holguin"
+},
+{
+"No":35,
+"Fecha":"25-01",
+"Hora":"2:18 pm",
+"Latitud":19.63,
+"Longitud":-76.09,
+"Prof":5,
+"Mag":3.9,
+"Perceptibilidad":"Santiago de Cuba, Guantanamo y Granma"
+},
+{
+"No":36,
+"Fecha":"25-01",
+"Hora":"2:34 pm",
+"Latitud":19.73,
+"Longitud":-76.03,
+"Prof":5,
+"Mag":3.0,
+"Perceptibilidad":"Santiago de Cuba"
+},
+{
+"No":37,
+"Fecha":"25-01",
+"Hora":"5:37 pm",
+"Latitud":19.67,
+"Longitud":-76.10,
+"Prof":5,
+"Mag":4.3,
+"Perceptibilidad": "Santiago de Cuba, Guantanamo, Granma y Holguin"
+},
+{
+"No":38,
+"Fecha":"25-01",
+"Hora":"8:05 pm",
+"Latitud":19.68,
+"Longitud":-76.06,
+"Prof":11,
+"Mag":3.7,
+"Perceptibilidad":"Santiago de Cuba y Guantanamo"
+},
+{
+"No":39,
+"Fecha":"26-01",
+"Hora":"5:59 am",
+"Latitud":19.67,
+"Longitud":-76.14,
+"Prof":5,
+"Mag":4.4,
+"Perceptibilidad":"Santiago de Cuba, Guantanamo y Granma"
+},
+{
+"No":40,
+"Fecha":"05-02",
+"Hora":"3:43 pm",
+"Latitud":19.60,
+"Longitud":-75.56,
+"Prof":32,
+"Mag":3.3,
+"Perceptibilidad":null
+},
+{
+"No":41,
+"Fecha":"06-02",
+"Hora":"12:52 pm",
+"Latitud":19.72,
+"Longitud":-75.95,
+"Prof":7.0,
+"Mag":3.0,
+"Perceptibilidad":null
+},
+{
+"No":42,
+"Fecha":"18-02",
+"Hora":"5:19 pm",
+"Latitud":19.89,
+"Longitud":-76.02,
+"Prof":11.0,
+"Mag":2.6,
+"Perceptibilidad":null
+},
+{
+"No":43,
+"Fecha":"19-02",
+"Hora":"11:57 am",
+"Latitud":19.78,
+"Longitud":-75.48,
+"Prof":32.5,
+"Mag":3.0,
+"Perceptibilidad": null
+},
+{
+"No":44,
+"Fecha":"25-02",
+"Hora":"8:27 am",
+"Latitud":20.63,
+"Longitud":-75.42,
+"Prof":5.1,
+"Mag":2.5,
+"Perceptibilidad": null
+},
+{
+"No":45,
+"Fecha":"25-02",
+"Hora":"5:42 pm",
+"Latitud":19.71,
+"Longitud":-76.11,
+"Prof":5.0,
+"Mag":2.7,
+"Perceptibilidad": null
+},
+{
+"No":46,
+"Fecha":"25-02",
+"Hora":"5:47 pm",
+"Latitud":19.71,
+"Longitud":-76.11,
+"Prof":5.0,
+"Mag":2.6,
+"Perceptibilidad":null
+},
+{
+"No":47,
+"Fecha":"26-03",
+"Hora":"9:52 am",
+"Latitud":19.825,
+"Longitud":-76.926,
+"Prof":5.0,
+"Mag":2.8,
+"Perceptibilidad": null
+},
+{
+"No":48,
+"Fecha":"28-03",
+"Hora":"9:57 am",
+"Latitud":19.997,
+"Longitud":-73.823,
+"Prof":10.0,
+"Mag":4.1,
+"Perceptibilidad": null
+},
+{
+"No":49,
+"Fecha":"28-03",
+"Hora":"7:03 pm",
+"Latitud":19.969,
+"Longitud":-75.904,
+"Prof":5.0,
+"Mag":2.7,
+"Perceptibilidad":null
+},
+{
+"No":50,
+"Fecha":"05-04",
+"Hora":"6:54 am",
+"Latitud":19.821,
+"Longitud":-76.868,
+"Prof":3.0,
+"Mag":3.0,
+"Perceptibilidad": null
+},
+{
+"No":51,
+"Fecha":"25-04",
+"Hora":"11:22 pm",
+"Latitud":19.69,
+"Longitud":-76.112,
+"Prof":7.0,
+"Mag":3.4,
+"Perceptibilidad": null
+},
+{
+"No":52,
+"Fecha":"13-05",
+"Hora":"8:51 pm",
+"Latitud":19.71,
+"Longitud":-76.05,
+"Prof":7.0,
+"Mag":3.1,
+"Perceptibilidad": null
+},
+{
+"No":53,
+"Fecha":"14-09",
+"Hora":"6:24 pm",
+"Latitud":19.750,
+"Longitud":-75.590,
+"Prof":20.0,
+"Mag":3.9,
+"Perceptibilidad": null
+},
+{
+"No":54,
+"Fecha":"30-09",
+"Hora":"7:06 pm",
+"Latitud":19.940,
+"Longitud":-74.380,
+"Prof":5.0,
+"Mag":4.8,
+"Perceptibilidad":null
+},
+{
+"No":55,
+"Fecha":"30-09",
+"Hora":"7:20 pm",
+"Latitud":19.929,
+"Longitud":-74.338,
+"Prof":10.0,
+"Mag":2.8,
+"Perceptibilidad": null
+},
+{
+"No":56,
+"Fecha":"30-09",
+"Hora":"7:32 pm",
+"Latitud":19.860,
+"Longitud":-74.442,
+"Prof":5.0,
+"Mag":3.7,
+"Perceptibilidad": null
+},
+{
+"No":57,
+"Fecha":"29-11",
+"Hora":"4:17 pm",
+"Latitud":19.930,
+"Longitud":75.830,
+"Prof":8.5,
+"Mag":2.9,
+"Perceptibilidad": null
+},
+{
+"No":58,
+"Fecha":"17-12",
+"Hora":"8:56 am",
+"Latitud":19.823,
+"Longitud":75.385,
+"Prof":45.0,
+"Mag":3.1,
+"Perceptibilidad": null
+}
+]
+}

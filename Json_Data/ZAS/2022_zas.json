@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "zonas de actividad sismica": "Cabo-Cruz",
+            "Cantidad de sismos": 189,
+            "Rango de magnitudes": "1.8 – 4.0",
+            "magnitud_equivalente total": 4.2,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Pilon-Chivirico",
+            "Cantidad de sismos": 422,
+            "Rango de magnitudes": "0.1 – 4.0",
+            "magnitud_equivalente total": 4.0,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Santiago-Baconao",
+            "Cantidad de sismos": 1468,
+            "Rango de magnitudes": "0.4 – 4.1",
+            "magnitud_equivalente total": 4.2,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Imias",
+            "Cantidad de sismos": 269,
+            "Rango de magnitudes": "0.7 – 3.6",
+            "magnitud_equivalente total": 3.8,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Cauto-Guacanayabo",
+            "Cantidad de sismos": 26,
+            "Rango de magnitudes": "0.9 – 2.9",
+            "magnitud_equivalente total": 3.1,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Moa-Purial",
+            "Cantidad de sismos": 134,
+            "Rango de magnitudes": "0.6 – 3.3",
+            "magnitud_equivalente total": 3.5,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Camaguey-Cubitas",
+            "Cantidad de sismos": 478,
+            "Rango de magnitudes": "1.5 - 5.0",
+            "magnitud_equivalente total": 5.1,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Centro",
+            "Cantidad de sismos": 44,
+            "Rango de magnitudes": "0.9 - 3.6",
+            "magnitud_equivalente total": 3.7,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Pinar",
+            "Cantidad de sismos": 19,
+            "Rango de magnitudes": "1.1 - 2.7",
+            "magnitud_equivalente total": 2.8,
+            "Valoracion de la sismicidad": "Normal"
+        },
+        {
+            "zonas de actividad sismica": "Paso de los Vientos-Gran Inagua",
+            "Cantidad de sismos": 390,
+            "Rango de magnitudes": "1.0 – 4.2",
+            "magnitud_equivalente total": 4.3,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Bahamas Sur",
+            "Cantidad de sismos": 15,
+            "Rango de magnitudes": "2.2 - 3.8",
+            "magnitud_equivalente total": 3.9,
+            "Valoracion de la sismicidad": "Alta"
+        },
+        {
+            "zonas de actividad sismica": "Bahamas Norte",
+            "Cantidad de sismos": 3,
+            "Rango de magnitudes": "2.5 - 3.4",
+            "magnitud_equivalente total": 3.4,
+            "Valoracion de la sismicidad": "Normal"
+        },
+        {
+            "zonas de actividad sismica": "Caiman",
+            "Cantidad de sismos": 25,
+            "Rango de magnitudes": "2.2 – 4.2",
+            "magnitud_equivalente total": 4.3,
+            "Valoracion de la sismicidad": "Alta"
+        }
+    ]
+}

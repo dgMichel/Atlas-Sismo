@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "zonas": "Cabo-Cruz",
+            "Cantidad": 113,
+            "Magnitud": "1.5 – 3.4",
+            "Magnitud equivalente": 3.6,
+            "Sismicidad magnitud_equivalente": "Normal"
+        },
+        {
+            "zonas": "Pilon-Chivirico",
+            "Cantidad": 1028,
+            "Magnitud": "0.3 – 5.0",
+            "Magnitud equivalente": 5.0,
+            "Sismicidad magnitud_equivalente": "Alta"
+        },
+        {
+            "zonas": "Santiago-Baconao",
+            "Cantidad": 2763,
+            "Magnitud": "0.6 – 5.6",
+            "Magnitud equivalente": 5.6,
+            "Sismicidad magnitud_equivalente": "Alta"
+        },
+        {
+            "zonas": "Imias",
+            "Cantidad": 173,
+            "Magnitud": "0.5 – 4.9",
+            "Magnitud equivalente": 5.0,
+            "Sismicidad magnitud_equivalente": "Alta"
+        },
+        {
+            "zonas": "Cauto-Guacanayabo",
+            "Cantidad": 21,
+            "Magnitud": "1.2 – 2.5",
+            "Magnitud equivalente": 2.6,
+            "Sismicidad magnitud_equivalente": "Baja"
+        },
+        {
+            "zonas": "Moa-Purial",
+            "Cantidad": 38,
+            "Magnitud": "0.5 – 2.9",
+            "Magnitud equivalente": 3.0,
+            "Sismicidad magnitud_equivalente": "Normal"
+        },
+        {
+            "zonas": "Camaguey-Cubitas",
+            "Cantidad": 10,
+            "Magnitud": "0.4 – 3.0",
+            "Magnitud equivalente": 3.0,
+            "Sismicidad magnitud_equivalente": "Normal"
+        },
+        {
+            "zonas": "Centro",
+            "Cantidad": 8,
+            "Magnitud": "1.4 - 2.9",
+            "Magnitud equivalente": 3.0,
+            "Sismicidad magnitud_equivalente": "Baja"
+        },
+        {
+            "zonas": "Pinar",
+            "Cantidad": 27,
+            "Magnitud": "1.1 – 3.5",
+            "Magnitud equivalente": 3.5,
+            "Sismicidad magnitud_equivalente": "Normal"
+        },
+        {
+            "zonas": "Paso de los Vientos-Gran Inagua",
+            "Cantidad": 209,
+            "Magnitud": "0.8 – 4.0",
+            "Magnitud equivalente": 4.0,
+            "Sismicidad magnitud_equivalente": "Alta"
+        },
+        {
+            "zonas": "Bahamas Norte",
+            "Cantidad": 2,
+            "Magnitud": "3.3",
+            "Magnitud equivalente": 3.3,
+            "Sismicidad magnitud_equivalente": "Baja"
+        },
+        {
+            "zonas": "Bahamas Sur",
+            "Cantidad": 18,
+            "Magnitud": "2.3 - 3.5",
+            "Magnitud equivalente": 3.6,
+            "Sismicidad magnitud_equivalente": "Baja"
+        },
+        {
+            "zonas": "Caiman",
+            "Cantidad": 10,
+            "Magnitud": "2.0 – 4.7",
+            "Magnitud equivalente": 4.7,
+            "Sismicidad magnitud_equivalente": "Alta"
+        }
+    ]
+}

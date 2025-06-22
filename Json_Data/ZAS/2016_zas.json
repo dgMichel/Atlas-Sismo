@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "localidad": "Cabo-Cruz",
+            "Cantidad": 194,
+            "Magnitud": "0.8 – 3.4",
+            "Sismicidad": 3.7,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "localidad": "Pilon-Chivirico",
+            "Cantidad": 432,
+            "Magnitud": "0.7 – 3.0",
+            "Sismicidad": 3.3,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "localidad": "Santiago-Baconao",
+            "Cantidad": 3774,
+            "Magnitud": "0.4 – 5.0",
+            "Sismicidad": 5.0,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "localidad": "Imias",
+            "Cantidad": 375,
+            "Magnitud": "0.8 – 4.9",
+            "Sismicidad": 4.9,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "localidad": "Moa-Purial",
+            "Cantidad": 114,
+            "Magnitud": "0.4 – 2.8",
+            "Sismicidad": 3.1,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "localidad": "Cauto-Guacanayabo",
+            "Cantidad": 44,
+            "Magnitud": "1.0 – 2.8",
+            "Sismicidad": 2.9,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "localidad": "Camaguey Cubitas",
+            "Cantidad": 49,
+            "Magnitud": "0.8 – 2.7",
+            "Sismicidad": 2.9,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "localidad": "Centro",
+            "Cantidad": 49,
+            "Magnitud": "0.7 – 3.3",
+            "Sismicidad": 3.5,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "localidad": "Pinar",
+            "Cantidad": 5,
+            "Magnitud": "0.9 – 2.2",
+            "Sismicidad": 2.3,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "localidad": "Paso de los Vientos-Gran Inagua",
+            "Cantidad": 420,
+            "Magnitud": "1.0 – 4.1",
+            "Sismicidad": 4.2,
+            "Sismicidad-magnitud_equivalente": "Alta"
+        },
+        {
+            "localidad": "Bahamas Sur",
+            "Cantidad": 6,
+            "Magnitud": "2.6 – 3.3",
+            "Sismicidad": 3.5,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "localidad": "Bahamas Norte",
+            "Cantidad": 9,
+            "Magnitud": "2.3",
+            "Sismicidad": 3.5,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        },
+        {
+            "localidad": "Caiman",
+            "Cantidad": 9,
+            "Magnitud": "2.2",
+            "Sismicidad": 3.5,
+            "Sismicidad-magnitud_equivalente": "Normal"
+        }
+    ]
+}

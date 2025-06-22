@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "FECHA": "05/03/2009",
+            "TIEMPO": "20:11:49.9",
+            "LAT(N)": 19.92,
+            "LON(W)": 76.02,
+            "H": 7.3,
+            "MD": 3.0,
+            "IMAX": "III",
+            "localidad": "SO Mar Verde, Santiago"
+        },
+        {
+            "FECHA": "28/05/2009",
+            "TIEMPO": "4:24:46.6",
+            "LAT(N)": 16.78,
+            "LON(W)": 86.17,
+            "H": 10.0,
+            "MD": 7.1,
+            "IMAX": "III",
+            "localidad": "Isla de la Juventud"
+        },
+        {
+            "FECHA": "27/05/2009",
+            "TIEMPO": "22:13:51.1",
+            "LAT(N)": 19.91,
+            "LON(W)": 76.46,
+            "H": 7.1,
+            "MD": 3.1,
+            "IMAX": "III",
+            "localidad": "SO Chivirico, Santiago"
+        },
+        {
+            "FECHA": "28/10/2009",
+            "TIEMPO": "4:51:36.1",
+            "LAT(N)": 19.85,
+            "LON(W)": 77.0,
+            "H": 5.0,
+            "MD": 3.6,
+            "IMAX": "IV",
+            "localidad": "SO de La Plata, Granma"
+        },
+        {
+            "FECHA": "28/10/2009",
+            "TIEMPO": "4:55:21.8",
+            "LAT(N)": 19.91,
+            "LON(W)": 77.15,
+            "H": 12.5,
+            "MD": 2.6,
+            "IMAX": "III",
+            "localidad": "E de Pilon, Granma"
+        },
+        {
+            "FECHA": "28/10/2009",
+            "TIEMPO": "10:09:30.1",
+            "LAT(N)": 20.04,
+            "LON(W)": 75.99,
+            "H": 7.2,
+            "MD": 3.9,
+            "IMAX": "V",
+            "localidad": "OSO de El Cobre, Santiago"
+        },
+        {
+            "FECHA": "29/10/2009",
+            "TIEMPO": "13:28:38.7",
+            "LAT(N)": 20.02,
+            "LON(W)": 75.99,
+            "H": 7.3,
+            "MD": 4.0,
+            "IMAX": "V",
+            "localidad": "OSO de El Cobre, Santiago"
+        },
+        {
+            "FECHA": "12/11/2009",
+            "TIEMPO": "3:51:26.9",
+            "LAT(N)": 19.75,
+            "LON(W)": 75.45,
+            "H": 11.9,
+            "MD": 3.1,
+            "IMAX": "III",
+            "localidad": "SSE de Baconao, Santiago"
+        },
+        {
+            "FECHA": "15/11/2009",
+            "TIEMPO": "10:01:50.3",
+            "LAT(N)": 19.81,
+            "LON(W)": 76.04,
+            "H": 32.0,
+            "MD": 3.3,
+            "IMAX": "III",
+            "localidad": "SSO de Mar Verde, Santiago"
+        },
+        {
+            "FECHA": "04/12/2009",
+            "TIEMPO": "22:29:49.7",
+            "LAT(N)": 19.75,
+            "LON(W)": 75.53,
+            "H": 20.0,
+            "MD": 3.2,
+            "IMAX": "III",
+            "localidad": "S Playa Cazonal, Santiago"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "ZAS": "Cabo-Cruz-Pilon",
+            "Cantida d": 302,
+            "Magnitudes": "0.5 - 3.8",
+            "MagEq": 3.9,
+            "Sismicidad": "normal"
+        },
+        {
+            "ZAS": "Chivirico",
+            "Cantida d": 332,
+            "Magnitudes": "0.5 - 3.2",
+            "MagEq": 3.2,
+            "Sismicidad": "baja"
+        },
+        {
+            "ZAS": "Santiago-Baconao",
+            "Cantida d": 2074,
+            "Magnitudes": "0.5 - 4.2",
+            "MagEq": 4.3,
+            "Sismicidad": "alta"
+        },
+        {
+            "ZAS": "Guantanamo-Maisi",
+            "Cantida d": 392,
+            "Magnitudes": "0.5 - 3.1",
+            "MagEq": 3.2,
+            "Sismicidad": "normal"
+        },
+        {
+            "ZAS": "Centro oriente",
+            "Cantida d": 43,
+            "Magnitudes": "0.2 - 2.4",
+            "MagEq": 2.6,
+            "Sismicidad": "baja"
+        },
+        {
+            "ZAS": "Moa-Purial",
+            "Cantida d": 479,
+            "Magnitudes": "0.6 - 3.2",
+            "MagEq": 3.3,
+            "Sismicidad": "normal"
+        },
+        {
+            "ZAS": "Camaguey-Cubitas",
+            "Cantida d": 79,
+            "Magnitudes": "0.3 - 3.1",
+            "MagEq": 3.1,
+            "Sismicidad": "normal"
+        },
+        {
+            "ZAS": "Holguin-Gibara",
+            "Cantida d": 59,
+            "Magnitudes": "0.9 - 3.3",
+            "MagEq": 3.3,
+            "Sismicidad": "normal"
+        },
+        {
+            "ZAS": "Resto Cuba",
+            "Cantida d": 198,
+            "Magnitudes": "0.9 - 3.5",
+            "MagEq": 3.5,
+            "Sismicidad": "normal"
+        },
+        {
+            "ZAS": "Bartlett",
+            "Cantida d": 263,
+            "Magnitudes": "0.8 - 3.2",
+            "MagEq": 3.5,
+            "Sismicidad": "baja"
+        },
+        {
+            "ZAS": "Bahamas",
+            "Cantida d": 4,
+            "Magnitudes": "1.9 - 2.5",
+            "MagEq": 2.6,
+            "Sismicidad": "baja"
+        },
+        {
+            "ZAS": "Caiman",
+            "Cantida d": 48,
+            "Magnitudes": "0.8 - 3.7",
+            "MagEq": 3.9,
+            "Sismicidad": "baja"
+        },
+        {
+            "ZAS": "Paso de los Vientos",
+            "Cantida d": 444,
+            "Magnitudes": "0.4 - 3.2",
+            "MagEq": 3.5,
+            "Sismicidad": "normal"
+        }
+    ]
+}

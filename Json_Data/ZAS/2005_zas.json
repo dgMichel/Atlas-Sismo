@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "zonas": "Cabo-Cruz-Pilon",
+            "CANTIDAD": 140,
+            "MAG -MAX": 3.5,
+            "FECHA Y HORA": "30/07 – 18:10"
+        },
+        {
+            "zonas": "Chivirico",
+            "CANTIDAD": 182,
+            "MAG -MAX": 3.0,
+            "FECHA Y HORA": "19/04 – 02:48"
+        },
+        {
+            "zonas": "Santiago-Baconao",
+            "CANTIDAD": 779,
+            "MAG -MAX": 3.2,
+            "FECHA Y HORA": "05/10 – 19:58"
+        },
+        {
+            "zonas": "Guantanamo-Maisi",
+            "CANTIDAD": 92,
+            "MAG -MAX": 3.3,
+            "FECHA Y HORA": "12/06 – 20:26"
+        },
+        {
+            "zonas": "Centro oriente",
+            "CANTIDAD": 10,
+            "MAG -MAX": 2.3,
+            "FECHA Y HORA": "10/09 – 08:28"
+        },
+        {
+            "zonas": "Moa-Purial",
+            "CANTIDAD": 101,
+            "MAG -MAX": 3.7,
+            "FECHA Y HORA": "17/03 – 00:34"
+        },
+        {
+            "zonas": "Camaguey-Cubitas",
+            "CANTIDAD": 19,
+            "MAG -MAX": 2.5,
+            "FECHA Y HORA": "02/08 – 06:15"
+        },
+        {
+            "zonas": "Holguin-Gibara",
+            "CANTIDAD": 13,
+            "MAG -MAX": 2.9,
+            "FECHA Y HORA": "06/03 – 22:27"
+        },
+        {
+            "zonas": "Resto Cuba",
+            "CANTIDAD": 46,
+            "MAG -MAX": 4.3,
+            "FECHA Y HORA": "22/10 – 12:13"
+        },
+        {
+            "zonas": "Bartlett",
+            "CANTIDAD": 62,
+            "MAG -MAX": 3.2,
+            "FECHA Y HORA": "08/08 – 22:45"
+        },
+        {
+            "zonas": "Bahamas",
+            "CANTIDAD": 1,
+            "MAG -MAX": 3.8,
+            "FECHA Y HORA": "04/04 – 10:24"
+        },
+        {
+            "zonas": "Caiman",
+            "CANTIDAD": 64,
+            "MAG -MAX": 4.4,
+            "FECHA Y HORA": "22/08 – 21:25"
+        }
+    ]
+}

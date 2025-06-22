@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Cabo-Cruz-Pilon",
+            "CANTIDAD": 269,
+            "Mmax": 3.5
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Chivirico",
+            "CANTIDAD": 193,
+            "Mmax": 2.9
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Santiago-Baconao",
+            "CANTIDAD": 1073,
+            "Mmax": 3.1
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Guantanamo-Maisi",
+            "CANTIDAD": 283,
+            "Mmax": 3.8
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Centro oriente",
+            "CANTIDAD": 13,
+            "Mmax": 2.6
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Moa-Purial",
+            "CANTIDAD": 539,
+            "Mmax": 3.0
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Camaguey-Cubitas",
+            "CANTIDAD": 16,
+            "Mmax": 3.0
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Holguin-Gibara",
+            "CANTIDAD": 5,
+            "Mmax": 3.7
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Resto Cuba",
+            "CANTIDAD": 15,
+            "Mmax": 3.3
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Bartlett",
+            "CANTIDAD": 93,
+            "Mmax": 5.5
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Bahamas",
+            "CANTIDAD": 0,
+            "Mmax": null
+        },
+        {
+            "zonas DE ACTIVIDAD SiSMICA": "Caiman",
+            "CANTIDAD": 15,
+            "Mmax": 4.0
+        }
+    ]
+}
