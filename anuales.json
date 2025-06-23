@@ -169,9 +169,9 @@
         },
         "zona_energetica": null,
         "terremoto_principal": {
-            "fecha": "",
-            "magnitud": 0,
-            "lugar": ""
+            "fecha": "2024-11-10",
+            "magnitud": 6.7,
+            "lugar": "Bartolome Maso"
         },
         "mapa_epicentro": "",
         "zonas": {
@@ -3396,12 +3396,12 @@
             "fecha": "2021-08-14",
             "cantidad": 415
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago Baconao",
             "cantidad": 1590
         },
-        "Zona_energetica": "Pinar",
-        "Terremoto_principal": {
+        "zona_energetica": "Pinar",
+        "terremoto_principal": {
             "fecha": "2021-06-29",
             "magnitud": 5.1,
             "lugar": "Artemisa"
@@ -4748,12 +4748,12 @@
             "fecha": "2020-01-29",
             "cantidad": 188
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago Baconao",
             "cantidad": 1446
         },
-        "Zona_energetica": "Cabo-Cruz",
-        "Terremoto_principal": {
+        "zona_energetica": "Cabo-Cruz",
+        "terremoto_principal": {
             "fecha": "2020-01-28",
             "magnitud": 7.7,
             "lugar": "Oeste Cabo-Cruz"
@@ -5950,12 +5950,12 @@
             "fecha": "2019-05-06",
             "cantidad": 31
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 1366
         },
-        "Zona_energetica": "Imias y Paso de los Vientos-Gran Inagua",
-        "Terremoto_principal": {
+        "zona_energetica": "Imias y Paso de los Vientos-Gran Inagua",
+        "terremoto_principal": {
             "fecha": "2019-08-04",
             "magnitud": 4.0,
             "lugar": "Imias"
@@ -6177,7 +6177,7 @@
             "marzo": {
                 "total": 304,
                 "dia_activo": {
-                    "fecha": "2018-03-21",
+                    "fecha": "2019-03-21",
                     "cantidad": 22
                 },
                 "zona_activa": {
@@ -6327,7 +6327,7 @@
             "mayo": {
                 "total": 273,
                 "dia_activo": {
-                    "fecha": "2018-05-06",
+                    "fecha": "2019-05-06",
                     "cantidad": 31
                 },
                 "zona_activa": {
@@ -7125,12 +7125,12 @@
             "fecha": "2018-10-07",
             "cantidad": 41
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 1173
         },
-        "Zona_energetica": "Paso de los Vientos-Gran Inagua",
-        "Terremoto_principal": {
+        "zona_energetica": "Paso de los Vientos-Gran Inagua",
+        "terremoto_principal": {
             "fecha": "2018-09-18",
             "magnitud": 3.8,
             "lugar": "Imias"
@@ -8169,12 +8169,12 @@
             "fecha": "2017-01-17",
             "cantidad": 189
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Pilon-Chivirico",
             "cantidad": 1824
         },
-        "Zona_energetica": "Pilon-Chivirico",
-        "Terremoto_principal": {
+        "zona_energetica": "Pilon-Chivirico",
+        "terremoto_principal": {
             "fecha": "2017-01-17",
             "magnitud": 5.8,
             "lugar": "Uvero"
@@ -9586,12 +9586,12 @@
             "fecha": "2016-01-17",
             "cantidad": 328
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 3774
         },
-        "Zona_energetica": "Santiago-Baconao",
-        "Terremoto_principal": {
+        "zona_energetica": "Santiago-Baconao",
+        "terremoto_principal": {
             "fecha": "2016-01-17",
             "magnitud": 5.0,
             "lugar": "Santiago de Cuba"
@@ -10768,12 +10768,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 2587
         },
-        "Zona_energetica": "Santiago-Baconao",
-        "Terremoto_principal": {
+        "zona_energetica": "Santiago-Baconao",
+        "terremoto_principal": {
             "fecha": "2015-03-13",
             "magnitud": 3.9,
             "lugar": "Santiago de Cuba"
@@ -11271,12 +11271,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 2477
         },
-        "Zona_energetica": "Caiman",
-        "Terremoto_principal": {
+        "zona_energetica": "Caiman",
+        "terremoto_principal": {
             "fecha": "2014-01-09",
             "magnitud": 4.9,
             "lugar": "Varadero"
@@ -11505,12 +11505,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 2074
         },
-        "Zona_energetica": "Santiago-Baconao",
-        "Terremoto_principal": {
+        "zona_energetica": "Santiago-Baconao",
+        "terremoto_principal": {
             "fecha": "2013-12-21",
             "magnitud": 4.3,
             "lugar": "Pilon"
@@ -11739,12 +11739,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 2093
         },
-        "Zona_energetica": "Bartlett",
-        "Terremoto_principal": {
+        "zona_energetica": "Bartlett",
+        "terremoto_principal": {
             "fecha": "2012-03-10",
             "magnitud": 4.8,
             "lugar": "Oeste de Cabo-Cruz (Provincia de Granma)"
@@ -11962,12 +11962,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 1904
         },
-        "Zona_energetica": "Cabo-Cruz-Pilon",
-        "Terremoto_principal": {
+        "zona_energetica": "Cabo-Cruz-Pilon",
+        "terremoto_principal": {
             "fecha": "2011-09-15",
             "magnitud": 5.1,
             "lugar": "Cabo-Cruz"
@@ -12531,12 +12531,12 @@
             "fecha": "2010-03-20",
             "cantidad": 182
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 2763
         },
-        "Zona_energetica": "Santiago-Baconao",
-        "Terremoto_principal": {
+        "zona_energetica": "Santiago-Baconao",
+        "terremoto_principal": {
             "fecha": "2010-03-20",
             "magnitud": 5.6,
             "lugar": "Santiago de Cuba"
@@ -12743,12 +12743,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 1092
         },
-        "Zona_energetica": "Santiago-Baconao",
-        "Terremoto_principal": {
+        "zona_energetica": "Santiago-Baconao",
+        "terremoto_principal": {
             "fecha": "2009-10-29",
             "magnitud": 4.0,
             "lugar": "El Cobre"
@@ -12987,12 +12987,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 1210
         },
-        "Zona_energetica": "Santiago-Baconao",
-        "Terremoto_principal": {
+        "zona_energetica": "Santiago-Baconao",
+        "terremoto_principal": {
             "fecha": "2008-10-28",
             "magnitud": 4.5,
             "lugar": "Cabo-Cruz"
@@ -13237,12 +13237,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 1073
         },
-        "Zona_energetica": "Bartlett",
-        "Terremoto_principal": {
+        "zona_energetica": "Bartlett",
+        "terremoto_principal": {
             "fecha": "2007-02-04",
             "magnitud": 6.1,
             "lugar": "Cabo-Cruz"
@@ -13465,12 +13465,12 @@
             "fecha": "2006-01-31",
             "cantidad": 27
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 1094
         },
-        "Zona_energetica": "Caiman",
-        "Terremoto_principal": {
+        "zona_energetica": "Caiman",
+        "terremoto_principal": {
             "fecha": "2006-01-31",
             "magnitud": 4.2,
             "lugar": "Playa Cazonal"
@@ -13699,12 +13699,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 779
         },
-        "Zona_energetica": "Caiman",
-        "Terremoto_principal": {
+        "zona_energetica": "Caiman",
+        "terremoto_principal": {
             "fecha": "2005-06-12",
             "magnitud": 4.1,
             "lugar": "Imias"
@@ -13883,12 +13883,12 @@
             "fecha": "2004-10-24",
             "cantidad": 72
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 875
         },
-        "Zona_energetica": "Caiman",
-        "Terremoto_principal": {
+        "zona_energetica": "Caiman",
+        "terremoto_principal": {
             "fecha": "2004-12-14",
             "magnitud": 7.2,
             "lugar": "Islas Caiman"
@@ -14128,12 +14128,12 @@
             "fecha": null,
             "cantidad": null
         },
-        "Zona_activa": {
+        "zona_activa": {
             "nombre": "Santiago-Baconao",
             "cantidad": 974
         },
-        "Zona_energetica": "Chivirico",
-        "Terremoto_principal": {
+        "zona_energetica": "Chivirico",
+        "terremoto_principal": {
             "fecha": "2003-08-01",
             "magnitud": 5.2,
             "lugar": "Chivirico"
