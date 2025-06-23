@@ -14,4 +14,5 @@
 ### Contenido:
 - [Analisis](main.py)
 - [Video]()
-- [Red_Social]()
+- [Red_Social](https://www.instagram.com/geodatacuba?igsh=MTZvbjg2MTc0c3Blbw%3D%3D&utm_source=qr)
+- [Requerimientos](requirements.txt)
