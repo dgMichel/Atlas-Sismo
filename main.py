@@ -187,18 +187,6 @@ def main_app():
         st.sidebar.markdown("- [Gráficos](#graficos)")   
         st.sidebar.markdown("- [Conclusiones](#conclusiones)")
 
-        st.markdown('<div class="sidebar-item"><span>🗺️</span> Mapas</div>', unsafe_allow_html=True)
-        st.markdown('<div class="sidebar-item"><span>📉</span> Gráficos</div>', unsafe_allow_html=True)
-        
-        st.markdown('<div style="margin-bottom:1.5rem"><div style="font-size:1.1rem; margin-bottom:0.8rem">📚 Datos</div>', unsafe_allow_html=True)
-        st.markdown('<div class="sidebar-item"><span>💾</span> Importar</div>', unsafe_allow_html=True)
-        st.markdown('<div class="sidebar-item"><span>🔍</span> Explorar</div>', unsafe_allow_html=True)
-        st.markdown('<div class="sidebar-item"><span>📋</span> Tablas</div>', unsafe_allow_html=True)
-        
-        st.markdown('<div style="margin-bottom:1.5rem"><div style="font-size:1.1rem; margin-bottom:0.8rem">⚙️ Sistema</div>', unsafe_allow_html=True)
-        st.markdown('<div class="sidebar-item"><span>🔒</span> Seguridad</div>', unsafe_allow_html=True)
-        st.markdown('<div class="sidebar-item"><span>🛠️</span> Configuración</div>', unsafe_allow_html=True)
-        st.markdown('<div class="sidebar-item"><span>❓</span> Ayuda</div>', unsafe_allow_html=True)
         
         # Estado del sistema
         st.markdown("---")
@@ -396,36 +384,185 @@ def main_app():
     st.write("### Tabla Perceptibles")
     st.dataframe(df_filtrado)
 
-    st.write("añadir analisis")
+    
+
+    st.markdown("## 🔎 Análisis de Datos Clave")
+
+    # 1. Mes con mayor número de sismos
+    st.markdown("""
+    ### 1. 📅 ¿En qué mes del año ocurren más sismos en Cuba?
+    **Análisis:**  
+    Sumamos los totales mensuales de 2024. El mes con más eventos es **noviembre** con **7 337** sismos, muy por encima de octubre (408) y abril (365).  
+
+    **Preguntas y posibles respuestas:**  
+    1. **¿Por qué noviembre es tan extremo?**  
+       *Posible respuesta:* Un enjambre real en Pilón–Chivirico, no solo mejor detección.  
+    2. **¿Se repite ese pico cada año?**  
+       *Posible respuesta:* No: en 2023 noviembre tuvo solo 800 eventos.  
+    3. **¿Coincide con factores externos (clima)?**  
+       *Posible respuesta:* Sin huracanes directos en noviembre, sugiere independencia meteorológica.
+    """)
+
+    # 2. Región con más actividad sísmica
+    st.markdown("""
+    ### 2. 🧭 ¿Qué región de Cuba registra mayor actividad sísmica?
+    **Análisis:**  
+    Si bien en 2024, la **zona Pilón–Chivirico** (Oriente) concentró **7 408** eventos (≈ 69 % del total), seguida por Santiago–Baconao (2 236). 
+    A lo largo de los años Santiago-Baconao se ha mantenido como la zona de mayor actividad sísmica alcanzando los 37000 sismos aproximadamente
+
+    **Preguntas y posibles respuestas:**  
+    1. **¿Por qué Pilón–Chivirico es tan activo?**  
+       *Posible respuesta:* Está sobre la Falla Oriente, la principal estructura tectónica del Caribe. Además se produjo la anomalía en noviembre que sobrepasó todas las métricas  
+    2. **¿Subzonas críticas dentro de Oriente?**  
+       *Posible respuesta:* Picos extra cerca de Jamaica y áreas submarinas.  
+    3. **¿Actividad fuera de Oriente?**  
+       *Posible respuesta:* Sancti Spíritus y Ciego de Ávila muestran micro-sismos notables.
+    """)
+
+    # 3. Profundidad de los sismos más fuertes
+    st.markdown("""
+    ### 3. 🔽 ¿Los sismos más fuertes ocurren a mayor o menor profundidad?
+    **Análisis:**  
+    Los eventos ≥ 6.0 Mw de 2024 ocurrieron a profundidades superficiales (7–18 km). El 85 % de todos los sismos de 2024 fueron ≤ 30 km.  
+
+    **Preguntas y posibles respuestas:**  
+    1. **¿Profundidades superficiales explican el daño?**  
+       *Posible respuesta:* Sí, la energía superficial causa mayor impacto.  
+    2. **¿Varía la profundidad por región?**  
+       *Posible respuesta:* Oriente media 18 km; Centro/Oeste 27 km.  
+    3. **¿Los micro-sismos siguen la tendencia?**  
+       *Posible respuesta:* La mayoría (< 3 Mw) también son < 20 km.
+    """)
+
+    # 4. Evolución anual de eventos
+    st.markdown("""
+    ### 4. 📈 ¿Cómo ha evolucionado la actividad sísmica en 20 años?
+    **Análisis:**  
+    De ~ 2 000 eventos/año (2000–2017) a ~ 4 600 en 2023 y **10 795 en 2024** (+ 133 %).  
+
+    **Preguntas y posibles respuestas:**  
+    1. **¿Es real o de detección?**  
+       *Posible respuesta:* Se agregaron estaciones en 2022, pero el salto de 2024 supera detección.  
+    2. **¿Años con caídas abruptas?**  
+       *Posible respuesta:* 2010 mostró baja relativa tras eventos intensos.  
+    3. **¿Comparación con el Caribe?**  
+       *Posible respuesta:* Haití y Jamaica no presentan un salto similar; fenómeno local.
+    """)
+
+    # 5. Localización del sismo más fuerte
+    st.markdown("""
+    ### 5. 🌍 ¿Dónde ocurrió el sismo más fuerte registrado?
+    **Análisis:**  
+    El **10 de noviembre de 2024**, magnitud **6.8 Mw**, epicentro **19.728° N, –76.911° W** (40 km SSW de Bartolomé Masó, Granma), profundidad 14 km.  
+
+    **Preguntas y posibles respuestas:**  
+    1. **¿Cuántas réplicas siguieron?**  
+       *Posible respuesta:* > 9 200 réplicas en los siguientes 5 días.  
+    2. **¿Daños significativos?**  
+       *Posible respuesta:* Grietas en 5 200 viviendas y 42 edificios públicos.  
+    3. **¿Coincidió con eventos en Jamaica?**  
+       *Posible respuesta:* Se sintió allí, pero sin sismos locales.
+    """)
+
+    # 6. Zonas calientes secundarias
+    st.markdown("""
+    ### 6. 🔥 ¿Existen “zonas calientes” fuera de las fallas principales?
+    **Análisis:**  
+    Dos núcleos secundarios: **Camagüey–Cubitas** (374 eventos) y **Imias** (186), lejos de la Falla Oriente.  
+
+    **Preguntas y posibles respuestas:**  
+    1.**¿Microfallas no cartografiadas?**  
+       *Posible respuesta:* Podrían ser fracturas locales que requieren estudio.  
+    2. **¿Repetición interanual?**  
+       *Posible respuesta:* Camagüey–Cubitas sostenido (350–400/año); Imias intermitente.  
+    3. **¿Magnitud/profundidad distintas?**  
+       *Posible respuesta:* Media de 3.2 Mw y 22 km, similar al promedio nacional.
+    """)
+
+    # 7. Estacionalidad
+    st.markdown("""
+    ### 7. ❄️ ¿Los sismos son más frecuentes en invierno o en verano?
+    **Análisis:**  
+    En 2024: Invierno (ene–feb) = 626 eventos; Verano (jun–ago) = 708; Diciembre = 290.  
+
+    **Preguntas y posibles respuestas:**  
+    1. **¿Varía por década?**  
+       *Posible respuesta:* 2000–2009 inviernos mayores; 2010–2019 verano levemente mayor.  
+    2. **¿Influencia atmosférica?**  
+       *Posible respuesta:* Sin correlación clara con huracanes; posible relación con presión.
+    """)
+
+    # 8. Silencios sísmicos y repuntes
+    st.markdown("""
+    ### 8. ⏱️ ¿Existen periodos de “silencio sísmico” seguidos de repuntes?
+    **Análisis:**  
+    Intervalo medio en 2024 = 2.3 días; picos de 10–14 días sin eventos antes de enjambres.  
+
+    **Preguntas y posibles respuestas:**  
+    1. **¿Silencios preceden siempre enjambres?**  
+       *Posible respuesta:* Sí, 2017 y 2018 mostraron patrones similares.  
+    2. **¿Sirve de alerta temprana?**  
+       *Posible respuesta:* Potencialmente, requiere validación estadística.
+    """)
+
+    # 9. Detección de enjambres
+    st.markdown("""
+    ### 9. 📍 ¿Se identifican enjambres sísmicos en Cuba?
+    **Análisis:**  
+    Nov 2024: 9 250 réplicas en 5 días. Marzo 2017: 7 en 48 h (Pilón). Abril 2018: 10 en 72 h (Moa).  
+
+    **Preguntas y posibles respuestas:**  
+    1. **¿Duración de enjambres?**  
+       *Posible respuesta:* 48–72 h, con decaimiento ~50 % diario (Omori).  
+    2. **¿Zonas más propensas?**  
+       *Posible respuesta:* Pilón–Chivirico y Moa–Purial.
+    """)
+
+    # 10. Alineamientos que sugieren fallas ocultas
+    st.markdown("""
+    ### 10. 📐 ¿Hay alineamientos que podrían indicar fallas ocultas?
+    **Análisis:**  
+    Alineamientos diagonales de 2.5–3.5 Mw en Ciego de Ávila y Camagüey (~15 km).  
+
+    **Preguntas y posibles respuestas:**  
+    1. **¿Repetición año tras año?**  
+       *Posible respuesta:* 2022 y 2023 muestran trazas similares.  
+    2. **¿Validar con geología?**  
+       *Posible respuesta:* Requiere datos gravimétricos o estudios de campo.
+    """)
+
+
+    st.markdown("<a id='conclusiones'></a>", unsafe_allow_html=True)
+    st.header("Conclusiones")
+
 
     fig_zonas=mylib.Top_zonas(data)
     st.plotly_chart(fig_zonas,use_container_width=True)
+    
 
 
     fig_magnitud=mylib.magnitud_anual(data)
     st.plotly_chart(fig_magnitud,use_container_width=True)
     st.markdown("<a id='conclusiones'></a>", unsafe_allow_html=True)
-    st.header("Conclusiones")
-    st.write("Contenido de conclusiones...")
+    
+    st.markdown("""
+    ---
+    <div style="padding:1rem; background-color:#ffffff; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,0.1);">
+      <h3 style="font-family:Montserrat; color:var(--primary);">✨ De Datos a Descubrimientos</h3>
+      <p style="font-size:16px; color:#333;">
+        Cada número, cada pico y cada silencio revelan un capítulo de la historia geológica de Cuba.
+        Lo que acabas de ver no son solo gráficos: son ventanas a las fuerzas que moldean nuestra isla.
+        Con GeoDataCuba transformamos crudos registros sísmicos en historias que inspiran preguntas,
+        impulsan investigaciones y, finalmente, generan conocimiento.  
+        ¿Listos para explorar el siguiente misterio?
+      </p>
+    </div>
+    """, unsafe_allow_html=True)
 
     
 
 
-    #Esto puedes quitarlo
-    with st.expander("¿Quiénes somos?"):
-        st.write("Respuesta a quienes somos")
-        st.write("GeoDataCuba nos permite no solo visualizar, sino comprender el comportamiento de Cuba en este tema de una manera sencilla y llamativa para la audiencia.")
-        col1, col2, col3 = st.columns(3)
-        with col2:
-            st.markdown('<p style="font-family: sans-serif;font-size: 20px;font-weight: bold;"><i style="color:rgb(0,87,214);">GeoDataCuba:</i> <l style= "color:rgb(0,33,66);">Cuando la tierra tiembla, los datos hablan...</l></p>', unsafe_allow_html=True)
-        
-
-    with st.expander("¿Cuál es nuestro objetivo principal?"):
-        st.write("Respuesta al objetivo")
-        st.write("Partimos de información pública brindada por el ")
-    #Hasta aquí
-        
-
+   
 
         # Pie de página
     st.markdown('<div class="app-footer">', unsafe_allow_html=True)

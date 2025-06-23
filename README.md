@@ -14,6 +14,6 @@
 ### Contenido:
 - [Analisis](main.py)
 - [Biblioteca_personal](analysis.py)
-- [Video]()
+- [Video](https://youtube.com/@mariam.datascience?si=4sGha4JsoB0FqNYw)
 - [Red_Social](https://www.instagram.com/geodatacuba?igsh=MTZvbjg2MTc0c3Blbw%3D%3D&utm_source=qr)
 - [Requerimientos](requirements.txt)
