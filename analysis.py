@@ -130,10 +130,24 @@ def perceptibles_df(data): #Construye un dataframe con toda la informacion de lo
             dataframe["provincia"].append(data[i]["perceptibles"]["magnitudes_perceptibles"][j]["provincia"])
     
     df=pd.DataFrame(dataframe)
+    meses_es = {
+    1: 'Enero',
+    2: 'Febrero',
+    3: 'Marzo',
+    4: 'Abril',
+    5: 'Mayo',
+    6: 'Junio',
+    7: 'Julio',
+    8: 'Agosto',
+    9: 'Septiembre',
+    10: 'Octubre',
+    11: 'Noviembre',
+    12: 'Diciembre'
+    }
     df['fecha'] = pd.to_datetime(df['fecha'])
     df['año'] = df['fecha'].dt.year
     df['año'] = pd.to_numeric(df['año'], errors='coerce').astype('Int64')
-    df['mes_nombre'] = df['fecha'].dt.month_name(locale='es')
+    df['mes_nombre'] = df['fecha'].dt.month.map(meses_es)
     return df
 
 def month_analize(data,year,month): #retorna una tupla con (dia mas activo, cantidad de sismos de ese dia, zona mas activa, cantidad de sismos de dicha zona, zona mas energetica, y un grafico de pastel) dado un mes y año especifico
