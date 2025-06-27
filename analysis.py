@@ -218,4 +218,3 @@ def magnitud_anual(data): #grafica boxplots sobre las magnitudes de los sismos p
 with open("anuales.json","r",encoding='utf-8') as file:
     data=json.load(file)
 
-print(perceptibles_df(data))
