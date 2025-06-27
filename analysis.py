@@ -60,12 +60,7 @@ def evolucion_mensual_por_zona(data,year): #Grafica el comportamiento de las Zon
         
     
     df_zonas = pd.DataFrame(datos_zonas,columns=["Meses","Zona","Cantidad"])
-    
-    """orden_meses = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 
-                'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
-    df_zonas['mes'] = pd.Categorical(df_zonas['mes'], categories=orden_meses, ordered=True)
-    df_zonas = df_zonas.sort_values('mes')"""
-    
+
     # Crear el gráfico
     fig = px.line(
         df_zonas,
@@ -135,25 +130,10 @@ def perceptibles_df(data): #Construye un dataframe con toda la informacion de lo
             dataframe["provincia"].append(data[i]["perceptibles"]["magnitudes_perceptibles"][j]["provincia"])
     
     df=pd.DataFrame(dataframe)
-    meses_es = {
-    1: 'Enero',
-    2: 'Febrero',
-    3: 'Marzo',
-    4: 'Abril',
-    5: 'Mayo',
-    6: 'Junio',
-    7: 'Julio',
-    8: 'Agosto',
-    9: 'Septiembre',
-    10: 'Octubre',
-    11: 'Noviembre',
-    12: 'Diciembre'
-    }
     df['fecha'] = pd.to_datetime(df['fecha'])
     df['año'] = df['fecha'].dt.year
     df['año'] = pd.to_numeric(df['año'], errors='coerce').astype('Int64')
-    df['mes_nombre'] = df['fecha'].dt.month.map(meses_es)
-
+    df['mes_nombre'] = df['fecha'].dt.month_name(locale='es')
     return df
 
 def month_analize(data,year,month): #retorna una tupla con (dia mas activo, cantidad de sismos de ese dia, zona mas activa, cantidad de sismos de dicha zona, zona mas energetica, y un grafico de pastel) dado un mes y año especifico
@@ -218,3 +198,79 @@ def magnitud_anual(data): #grafica boxplots sobre las magnitudes de los sismos p
 with open("anuales.json","r",encoding='utf-8') as file:
     data=json.load(file)
 
+print(perceptibles_df(data))
+
+
+
+def sismos_mensualidad_2024(data):
+    lista = []
+    year = "2024"
+    for i in data[year]["meses"].keys():
+        lista.append([i, data[year]["meses"][i]["total"]])
+    
+    dt = pd.DataFrame(lista, columns=["Mes", "total"])
+    fig = px.bar(dt, x="Mes", y="total",
+                title="Sismos mensuales - Año 2024",
+                labels={"total": "Número de sismos", "Mes": "Mes del año"})
+    
+    fig.update_layout(
+        plot_bgcolor='rgba(0,0,0,0)',
+        xaxis=dict(showgrid=False),
+        yaxis=dict(showgrid=True, gridcolor='lightgray')
+    )
+    return fig
+
+def evolucion_mensual_por_zona_2024(data):
+    datos_zonas = []
+    year = "2024"
+    for i in data[year]["meses"].keys():
+        for j in data[year]["meses"][i]["zonas"].keys():
+            datos_zonas.append([i,j,data[year]["meses"][i]["zonas"][j]["cantidad"]])
+    
+    df_zonas = pd.DataFrame(datos_zonas,columns=["Meses","Zona","Cantidad"])
+
+    fig = px.line(
+        df_zonas,
+        x='Meses',
+        y='Cantidad',
+        color='Zona',
+        title='Evolución Mensual de Actividad Sísmica por Zona - Año 2024',
+        markers=True,
+        labels={'Cantidad': 'Número de sismos', 'Meses': 'Mes', 'Zona': 'Zona sísmica'}
+    )
+    
+    fig.update_layout(
+        plot_bgcolor='rgba(0,0,0,0)',
+        xaxis=dict(showgrid=False),
+        yaxis=dict(showgrid=True, gridcolor='lightgray'),
+        hovermode='x unified'
+    )
+    return fig
+
+def evolucion_mensual_días_2024(data):
+    datos_dias=[]
+    year = "2024"
+    
+    for i in data[year]["meses"].keys():
+        if data[year]["meses"][i]["dia_activo"]["fecha"] is not None:
+            datos_dias.append([data[year]["meses"][i]["dia_activo"]["fecha"],
+                             data[year]["meses"][i]["dia_activo"]["cantidad"]])
+    
+    df=pd.DataFrame(datos_dias,columns=["Fecha","Cantidad"])
+    
+    fig = px.line(
+        df,
+        x='Fecha',
+        y='Cantidad',
+        title='Evolución Mensual de Días con mayor actividad - Año 2024',
+        markers=True,
+        labels={'Cantidad': 'Número de sismos', 'Fecha': 'Fecha'}
+    )
+    
+    fig.update_layout(
+        plot_bgcolor='rgba(0,0,0,0)',
+        xaxis=dict(showgrid=False),
+        yaxis=dict(showgrid=True, gridcolor='lightgray'),
+        hovermode='x unified'
+    )
+    return fig

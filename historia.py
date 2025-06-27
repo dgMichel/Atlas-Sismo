@@ -1,6 +1,9 @@
 import streamlit as st
 import json
-import analysis as mylib
+import analysis 
+from analysis import sismos_mensualidad_2024, evolucion_mensual_por_zona_2024, evolucion_mensual_días_2024
+
+
 with open("anuales.json","r",encoding='utf-8')as file:
     data=json.load(file)
 
@@ -162,20 +165,28 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 c1,c2=st.columns([2,2])
-with c1:
-    st.title("Cuba avanza y eso....")
-with c2:
-    st.title("Presentado por:")
-    st.image("Extra/GeoData.png")
+st.title("¿Puede ocurrir un tsunami en Cuba? La historia que revelaron los datos del sismo de 2024")
+
+st.title("Presentado por:")
+st.image("Extra/GeoData.png")
 
 with st.sidebar:
-        st.image("Extra/GeoData.png",use_container_width=True)        
-        # Menú para navegar
-        st.sidebar.markdown("## 📖 Índice ")
-        st.sidebar.markdown("- [Inicio](#Inicio)")
-        st.sidebar.markdown("- [Contexto Geológico](#Contexto)")
-        st.sidebar.markdown("- [Panorama histórico](#historia)")   
-        st.sidebar.markdown("- [Conclusiones](#conclusiones)")
+    st.image("Extra/GeoData.png", use_container_width=True)        
+    st.sidebar.markdown("## 📖 Índice ")
+    st.sidebar.markdown("- [Inicio](#Inicio)")
+    st.sidebar.markdown("- [Contexto Geológico](#Contexto)")
+    st.sidebar.markdown("- [La pregunta sobre tsunami](#tsunami)")
+    st.sidebar.markdown("- [Actividad sísmica excepcional](#actividad)")
+    st.sidebar.markdown("- [Visualizaciones: Patrones sísmicos](#visualizaciones)")
+    st.sidebar.markdown("- [Días clave](#dias)")
+    st.sidebar.markdown("- [Análisis: ¿Tsunami o no?](#analisis)")
+    st.sidebar.markdown("- [Zonas vulnerables](#zonas)")
+    st.sidebar.markdown("- [Antecedentes históricos](#historia_caribe)")
+    st.sidebar.markdown("- [Testimonios](#testimonios)")
+    st.sidebar.markdown("- [Respuesta institucional](#respuesta)")
+    st.sidebar.markdown("- [Los números de 2024](#numeros)")
+    st.sidebar.markdown("- [Respuesta científica](#respuesta_final)")
+    st.sidebar.markdown("- [Epílogo](#epilogo)")
 
 st.markdown("<a id='Inicio'></a>", unsafe_allow_html=True)
 st.header("")
@@ -223,7 +234,296 @@ súbitamente en forma de terremotos. En las horas siguientes al sismo principal,
 los datos comenzaron a revelar una secuencia sísmica intensa que se 
 extendería durante semanas
 """)
-st.markdown("<a id='historia'></a>", unsafe_allow_html=True)
-st.header("¿Qué pasó en noviembre de 2024?")
 
 st.markdown("")
+st.markdown("""Cuando los números cuentan una historia
+
+En los días siguientes, mientras los equipos de emergencia evaluaban los
+daños materiales - más de 3,700 edificaciones afectadas, 156 viviendas con
+colapsos parciales, 10 personas heridas levemente - los científicos del CENAIS
+comenzaron a procesar una información que cambiaría para siempre la
+perspectiva sobre el riesgo tsunamigénico en Cuba.
+El primer dato que saltó a la vista fue la intensidad de las réplicas. Conforme
+avanzaba noviembre, los números revelaron que 2024 registraría 10,795
+terremotos en territorio cubano, con una concentración particular de eventos
+durante este mes. No se trataba solo de un sismo fuerte: los datos mostraban
+una secuencia sísmica de características excepcionales en la falla
+Septentrional-Oriente.
+""")
+st.markdown("<a id='tsunami'></a>", unsafe_allow_html=True)
+st.header("La pregunta que cambió de respuesta")
+st.markdown("""
+Durante años, cuando alguien preguntaba si podía ocurrir un tsunami en Cuba,
+la respuesta científica era técnicamente correcta pero insatisfactoria: "Es muy
+poco probable, pero no imposible". Una respuesta que dejaba más dudas que
+certezas.
+
+Los eventos de 2024 proporcionaron nuevos datos cruciales para el análisis del
+riesgo tsunamigénico. Por primera vez, la secuencia sísmica ofreció
+información detallada sobre el comportamiento de la falla Septentrional-Oriente
+y sus implicaciones reales para la seguridad costera.
+""")
+st.markdown("<a id='actividad'></a>", unsafe_allow_html=True)
+st.header("Un año de actividad sísmica excepcional")
+st.markdown("""
+Los datos consolidados del CENAIS mostraron una cifra que redefinió la
+comprensión del fenómeno: 10,795 terremotos registrados en territorio
+cubano durante 2024. Esta actividad sísmica intensa se concentró
+principalmente en la región de Pilón-Chivirico y alcanzó su pico máximo
+durante el mes de noviembre, cuando se registraron 7,337 sismos – más del
+67% de toda la actividad anual.
+
+La distribución temporal y espacial de estos sismos proporcionó información
+invaluable sobre el comportamiento de las estructuras tectónicas activas en la
+región suroriental de Cuba, revelando patrones que los científicos no habían
+observado anteriormente con esta claridad.
+""")
+st.markdown("<a id='visualizaciones'></a>", unsafe_allow_html=True)
+st.header("La historia que cuentan las visualizaciones: Patrones que revelan la realidad sísmica")
+
+st.subheader("Noviembre 2024: Cuando la falla decidió hablar")
+# Gráfico de barras mensual
+fig_mensual = sismos_mensualidad_2024(data)
+st.plotly_chart(fig_mensual, use_container_width=True)
+
+st.markdown("""
+Los números cuentan una historia extraordinaria. Noviembre de 2024 no fue un
+mes cualquiera: concentró 7,337 sismos – más del 67% de toda la actividad
+sísmica anual comprimida en apenas 30 días. Mientras septiembre, el segundo
+mes más activo, registró 800 eventos, y el resto del año se mantuvo por debajo
+de los 400 sismos mensuales, noviembre sobresale como una anomalía
+estadística que cambió para siempre la comprensión científica del
+comportamiento de la falla Septentrional-Oriente.
+
+Esta concentración extrema revela algo fundamental: las fallas transformantes
+no liberan su energía gradualmente, sino en pulsos intensos que pueden
+prolongarse por semanas. Para los científicos que estudian el riesgo
+tsunamigénico, este patrón temporal significa que cuando la falla "despierta",
+puede mantenerse activa durante períodos extensos, incrementando las
+probabilidades de que ocurra un evento con las características necesarias para
+generar un tsunami.
+""")
+
+st.subheader("Pilón-Chivirico: El punto donde la tierra se quejó más fuerte")
+# Gráfico de líneas por zonas
+fig_zonas = evolucion_mensual_por_zona_2024(data)
+st.plotly_chart(fig_zonas, use_container_width=True)
+
+st.markdown("""
+La geografía de los sismos cuenta su propia historia. De los 10,795 eventos de
+2024, 7,408 ocurrieron en Pilón-Chivirico – el 68.6% de toda la actividad
+nacional concentrada en una sola región. Mientras esta zona alcanzó su
+explosión máxima en noviembre con 7,124 sismos, Santiago-Baconao registró
+su pico en septiembre con 713 eventos, y las demás zonas sísmicas del país
+(Cabo Cruz, Cauto-Guacanayabo, Imías, Moa Purial, Camagüey-Cubitas, Paso
+de los Vientos-Gran Inagua, Caimán, Bahamas Norte, Centro, Bahamas Sur)
+mantuvieron niveles mucho menores.
+""")
+
+st.markdown("""
+
+Esta concentración geográfica extrema confirma que no se trató de una
+activación general del sistema de fallas cubano, sino de un fenómeno muy
+localizado. Para los expertos en tsunamis, esta especificidad resulta tanto
+tranquilizadora como preocupante: tranquilizadora porque significa que no toda
+la isla enfrenta el mismo nivel de riesgo, preocupante porque identifica
+exactamente dónde podrían originarse los movimientos verticales del fondo
+marino necesarios para generar un tsunami.
+""")
+
+st.markdown("<a id='dias'></a>", unsafe_allow_html=True)
+st.header("Los días que marcaron la diferencia")
+# Gráfico de días más activos
+fig_dias = evolucion_mensual_días_2024(data)
+st.plotly_chart(fig_dias, use_container_width=True)
+
+st.markdown("""
+Algunos días se vuelven legendarios en la historia científica. El 11 de noviembre
+– apenas 24 horas después del sismo principal de magnitud 6.7 – se convirtió
+en el día más sísmicamente activo del año. Le siguieron el 8 de septiembre y el
+7 de abril, cada uno marcando episodios específicos donde la tierra decidió
+liberar energía acumulada durante años.
+
+Estos picos revelan que los sismos no siguen un patrón gradual, sino episódico.
+Cada evento principal genera cascadas de réplicas que pueden extenderse por
+días, un comportamiento que los científicos ahora comprenden es
+característico de fallas complejas bajo alta tensión. Para evaluar el riesgo
+tsunamigénico, estos patrones temporales son cruciales: demuestran que
+después de un sismo mayor, las probabilidades de eventos adicionales se
+mantienen elevadas durante períodos significativos.
+""")
+st.markdown("<a id='analisis'></a>", unsafe_allow_html=True)
+st.header("¿Tsunami o no tsunami? El análisis científico")
+st.markdown("""
+El sismo de magnitud 6.7 del 10 de noviembre no generó tsunami debido a que
+sus movimientos fueron predominantemente horizontales (strike-slip),
+característica típica de las fallas transformantes. La generación de tsunamis
+requiere desplazamientos verticales significativos del fondo marino,
+mecanismo que no se produjo en el evento de noviembre de 2024.
+Sin embargo, los modelos desarrollados por CENAIS y expertos internacionales
+han identificado un escenario de riesgo real: un sismo de magnitud 7.5 o
+superior en la misma zona, con componente de movimiento vertical
+significativo, podría generar olas de hasta 4 metros en sectores de la costa
+nororiental de Cuba.
+""")
+
+st.markdown("<a id='zonas'></a>", unsafe_allow_html=True)
+st.subheader("Zonas de mayor vulnerabilidad")
+st.markdown("""
+- **Gibara**  
+- **Baracoa**  
+- **Holguín**
+
+**Tiempo estimado de llegada:** Entre 10 y 20 minutos posteriores al evento sísmico.  
+**Población potencialmente afectada:** Aproximadamente 2 millones de personas
+residen en estas regiones costeras.
+""")
+
+st.markdown("<a id='historia_caribe'></a>", unsafe_allow_html=True)
+st.header("🌊 Antecedentes históricos: La memoria sísmica del Caribe")
+
+st.markdown("""
+<div style='background-color:#f0f2f6; padding:20px; border-radius:10px; border-left: 5px solid #4e89ae'>
+<h4 style='color:#1e3a8a'>📜 Cuba ha experimentado efectos tsunamigénicos históricos</h4>
+<p>El más significativo registrado:</p>
+
+<strong>🌍 El tsunami transatlántico de 1755</strong><br>
+<div style='margin-left:20px;'>
+• Originado por el <em>terremoto de Lisboa</em> (magnitud estimada ~8.5)<br>
+• Cruzó todo el Océano Atlántico impactando el Caribe<br>
+• Olas de <span style='background-color:#ffd700'>hasta 3 metros</span> en costas cubanas<br>
+• Demostró que los tsunamis pueden propagarse <strong>miles de kilómetros</strong>
+</div>
+</div>
+""", unsafe_allow_html=True)
+
+st.subheader("🚨 Alertas recientes en el Caribe")
+
+st.markdown("""
+<div style='background-color:#fff8e1; padding:20px; border-radius:10px; margin-top:20px; border-left: 5px solid #ffc107'>
+<strong>Últimas activaciones de protocolos:</strong>
+<ul>
+  <li><b>Enero 2020</b> │ Sismo 7.7 M<sub>w</sub> Jamaica-Cuba<br><span style='color:#d32f2f'>Activó alerta preventiva regional</span></li>
+  <li><b>Febrero 2025</b> │ Sismo 7.6 M<sub>w</sub> Islas Caimán<br><span style='color:#d32f2f'>Reactivó sistemas de monitoreo</span></li>
+</ul>
+
+<div style='margin-top:15px; padding:10px; background-color:#e8f5e9; border-radius:5px'>
+⚠️ Aunque no generaron tsunamis destructivos, estos eventos confirman que <strong>la amenaza permanece latente</strong> en la región caribeña.
+</div>
+</div>
+""", unsafe_allow_html=True)
+st.markdown("<a id='testimonios'></a>", unsafe_allow_html=True)
+st.header("Testimonios desde el epicentro")
+st.subheader("La experiencia humana detrás de los datos")
+st.markdown("""
+"Fue un estruendo enorme", relató Yaniseli Ramírez Tejeda, residente de 25
+años de Pilón, al periódico *La Demajagua*. Se encontraba en el patio de su casa
+con su hijo de dos años cuando comenzó el sismo del 10 de noviembre.
+
+Su testimonio representa la experiencia de miles de familias que ese día
+vivieron directamente los efectos de la actividad tectónica. En Pilón, la
+infraestructura portuaria sufrió daños considerables y numerosas viviendas
+desarrollaron fisuras estructurales, sin registrarse víctimas fatales.
+""")
+
+st.markdown("<a id='respuesta'></a>", unsafe_allow_html=True)
+st.header("La respuesta institucional inmediata")
+st.markdown("""
+El presidente Miguel Díaz-Canel emitió instrucciones específicas a través de su
+cuenta en X:  
+> "Pedimos a nuestra población en esas zonas salir y mantenerse en lugares
+abiertos. Comenzamos a evaluar daños para empezar la recuperación. Lo
+primero, y esencial, salvar las vidas."
+
+El 14 de noviembre, Díaz-Canel visitó el Observatorio Geodinámico del CENAIS
+en Santiago de Cuba, donde exhortó a "aumentar la cultura sísmica en el país".
+""")
+
+st.markdown("<a id='numeros'></a>", unsafe_allow_html=True)
+st.header("Los números que redefinieron la comprensión científica")
+st.subheader("2024: Un año excepcional en términos sísmicos")
+st.markdown("""
+Los datos de 2024 obligaron a recalibrar los modelos de riesgo sísmico. Los
+10,795 eventos registrados representan un incremento superior al 200%
+respecto al promedio histórico de entre 2,000 y 4,000 sismos anuales
+detectables instrumentalmente.
+""")
+
+st.markdown("**Los eventos principales del año:**")
+st.markdown("""
+1. **10 de noviembre:** Magnitud 6.7 en Bartolomé Masó (evento principal)  
+2. **11 de noviembre:** Día de máxima actividad sísmica anual  
+3. **8 de septiembre:** Segundo pico de actividad
+""")
+
+st.markdown("""
+**Intensidad máxima registrada:** VIII grados en la escala EMS en localidades
+como Pilón, Bartolomé Masó y Marea del Portillo.
+
+**Interpretación técnica:** Una intensidad VIII indica que las
+estructuras bien construidas experimentan daños leves,
+mientras que las construcciones convencionales sufren
+daños considerables y las estructuras vulnerables colapsan
+parcialmente.
+""")
+
+st.markdown("""
+Esta actividad elevada confirma que la falla Septentrional-Oriente atravesó un
+período de alta actividad tectónica durante 2024, proporcionando a los
+científicos datos sin precedentes para evaluar el comportamiento futuro del
+sistema.
+            
+Los datos de 2024 han reescrito la comprensión científica sobre el riesgo
+sísmico en Cuba. Lo que comenzó como un domingo cualquiera se convirtió en
+una ventana extraordinaria hacia el comportamiento de nuestras fallas más
+activas. La falla Septentrional-Oriente mostró la mayor actividad registrada en
+décadas recientes, confirmando que el riesgo tsunamigénico, aunque
+estadísticamente bajo, es científicamente verificable.
+
+Estos hallazgos revelaron que los sistemas de preparación requieren desarrollo
+continuo, no reactivo. La infraestructura de monitoreo necesita inversión
+sostenida, y más importante aún, la educación pública sobre riesgos
+geológicos se ha convertido en una prioridad nacional incuestionable.
+""")
+
+st.markdown("<a id='respuesta_final'></a>", unsafe_allow_html=True)
+st.header("La respuesta científica a la pregunta fundamental")
+st.markdown("""
+**¿Puede ocurrir un tsunami en Cuba?**  
+El análisis de los datos de 2024 proporciona la respuesta más sólida
+científicamente hasta la fecha:
+
+> **Sí, es geológicamente posible.**
+
+Aunque la probabilidad no es inmediata, la evidencia confirma que las
+condiciones tectónicas necesarias existen. La falla Septentrional-Oriente posee
+el potencial para generar sismos de magnitud suficiente y con el mecanismo
+focal adecuado para desplazar verticalmente el fondo marino.
+
+> La cuestión fundamental ya no es "si puede ocurrir", sino "¿estaremos
+preparados cuando ocurra?"
+""")
+
+st.markdown("<a id='epilogo'></a>", unsafe_allow_html=True)
+st.header("Una advertencia y un regalo")
+
+st.markdown("""
+La tierra ha entregado tanto una advertencia como un regalo.  
+Una **advertencia** sobre los riesgos reales que enfrentamos como nación insular en una zona tectónicamente activa.  
+Y un **regalo invaluable**: el conocimiento científico necesario para prepararnos.
+
+Cuando Yaniseli Ramírez corrió con su hijo hacia un lugar seguro esa mañana
+de noviembre, no sabía que estaba viviendo un momento histórico para la
+ciencia cubana. Tampoco sabía que su experiencia se convertiría en parte de la
+evidencia que ayudaría a proteger a las próximas generaciones.
+
+Porque al final, de eso se trata la ciencia:  
+**De transformar la incertidumbre en conocimiento, el miedo en preparación,  
+y los datos en herramientas para salvar vidas.**
+
+La tierra siguió hablando durante semanas después del 10 de noviembre.  
+Y por primera vez en décadas, entregó señales tan contundentes  
+que dejaron una **huella irreversible en la ciencia cubana**.
+""")
+
+
