@@ -12,7 +12,8 @@
 ## ¿Cómo hacemos visible lo invisible? ¿Cómo convertimos números en insights? 
 
 ### Contenido:
-- [Analisis](main.py)
+- [Dataproduct](https://geodata-cuba-pjmwhi96itzfuqzgjjnug5.streamlit.app/)
+- [Historia](https://geodata-cuba-sc7tzufv2dnedpxmhfysza.streamlit.app/)
 - [Biblioteca_personal](analysis.py)
 - [Video](https://youtube.com/@mariam.datascience?si=4sGha4JsoB0FqNYw)
 - [Red_Social](https://www.instagram.com/geodatacuba?igsh=MTZvbjg2MTc0c3Blbw%3D%3D&utm_source=qr)
