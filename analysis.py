@@ -14,7 +14,7 @@ def Conteo_años(data: dict,years: list): #Cuenta la cantidad de sismos ocurrido
 def Top_Sismos(data): #retorna una lista con los totales de sismos por año
     lista=[]
     for i in data.keys():
-        if data[i]["dia_activo"] is not None:
+        if data[i]["total"] is not None:
             lista.append(data[i]["total"])
     lista.sort()
     return lista

@@ -301,12 +301,12 @@ def main_app():
             </div>""", unsafe_allow_html=True)
             st.markdown(f"""
             <div class="stat-card">
-                <div>Día más activo:<br>fecha:{data[selected]["dia_activo"]["fecha"]}</div>
+                <div>Día más activo:<br>fecha   :{data[selected]["dia_activo"]["fecha"]}</div>
                 <div class="stat-value">{data[selected]["dia_activo"]["cantidad"]}</div>
                 <div></div>
             </div>""", unsafe_allow_html=True)
-
-        if selected in opciones[:10]: #Toma el rango de valores de "2024" hasta "2015" al ser los que presentas datos sobre la información mensual
+        
+        if f"{selected}" in opciones[:10]: #Toma el rango de valores de "2024" hasta "2015" al ser los que presentas datos sobre la información mensual
             
         
             fig = mylib.sismos_mensualidad(data, selected)
@@ -319,30 +319,31 @@ def main_app():
             st.plotly_chart(fig3,use_container_width=True)
         
     with tab2:
-            opciones_m=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"]
-            selectedm=st.selectbox("Elija el mes para ver su resumen:",opciones_m)
-            c1,c2,c3=st.columns([1,1,1])
-            datos_m=mylib.month_analize(data,selected,selectedm)
-            with c1:
-                st.markdown(f"""
-                <div class="stat-card">
-                    <div>Día mas activo<br> {datos_m[0]} </div>
-                    <div class="stat-value">{datos_m[1]}</div>
-                </div>""", unsafe_allow_html=True)
-                
-            with c2:
-                st.markdown(f"""
-                <div class="stat-card">
-                    <div>Zona más activa:<br>lugar:{datos_m[2]}</div>
-                    <div class="stat-value">{datos_m[3]}</div>
-                </div>""", unsafe_allow_html=True)
-            with c3:
-                st.markdown(f"""
-                <div class="stat-card">
-                    <div>Zona energética:</div>
-                    <div class="stat-value">{datos_m[4]}</div>
-                </div>""", unsafe_allow_html=True)
-            st.plotly_chart(datos_m[-1],use_container_width=True)
+            if f"{selected}" in opciones[:10]:
+                opciones_m=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"]
+                selectedm=st.selectbox("Elija el mes para ver su resumen:",opciones_m)
+                c1,c2,c3=st.columns([1,1,1])
+                datos_m=mylib.month_analize(data,selected,selectedm)
+                with c1:
+                    st.markdown(f"""
+                    <div class="stat-card">
+                        <div>Día mas activo<br> {datos_m[0]} </div>
+                        <div class="stat-value">{datos_m[1]}</div>
+                    </div>""", unsafe_allow_html=True)
+                    
+                with c2:
+                    st.markdown(f"""
+                    <div class="stat-card">
+                        <div>Zona más activa:<br>lugar:{datos_m[2]}</div>
+                        <div class="stat-value">{datos_m[3]}</div>
+                    </div>""", unsafe_allow_html=True)
+                with c3:
+                    st.markdown(f"""
+                    <div class="stat-card">
+                        <div>Zona energética:</div>
+                        <div class="stat-value">{datos_m[4]}</div>
+                    </div>""", unsafe_allow_html=True)
+                st.plotly_chart(datos_m[-1],use_container_width=True)
     #Región Gráficos
     st.markdown("<a id='graficos'></a>", unsafe_allow_html=True)
     st.header("Tabla con filtros")
@@ -385,6 +386,20 @@ def main_app():
     st.dataframe(df_filtrado)
 
     
+    
+
+    fig_zonas=mylib.Top_zonas(data)
+    st.plotly_chart(fig_zonas,use_container_width=True)
+    
+
+
+    fig_magnitud=mylib.magnitud_anual(data)
+    st.plotly_chart(fig_magnitud,use_container_width=True)
+    st.markdown("<a id='conclusiones'></a>", unsafe_allow_html=True)
+    
+    
+    st.markdown("<a id='conclusiones'></a>", unsafe_allow_html=True)
+    st.header("Conclusiones")
 
     st.markdown("## 🔎 Análisis de Datos Clave")
 
@@ -532,19 +547,6 @@ def main_app():
     """)
 
 
-    st.markdown("<a id='conclusiones'></a>", unsafe_allow_html=True)
-    st.header("Conclusiones")
-
-
-    fig_zonas=mylib.Top_zonas(data)
-    st.plotly_chart(fig_zonas,use_container_width=True)
-    
-
-
-    fig_magnitud=mylib.magnitud_anual(data)
-    st.plotly_chart(fig_magnitud,use_container_width=True)
-    st.markdown("<a id='conclusiones'></a>", unsafe_allow_html=True)
-    
     st.markdown("""
     ---
     <div style="padding:1rem; background-color:#ffffff; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,0.1);">
